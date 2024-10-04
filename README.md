@@ -4,6 +4,10 @@
 
 SmartCommute is a Command Line Interface (CLI) application designed to enhance the experience of users of Bogotá's TransMilenio public transportation system. With features such as route inquiries, card recharging, and trip planning, the application aims to optimize passenger mobility and increase the system's efficiency.
 
+## 🛝 Slides 
+
+- **Slides in canva**[Canva](https://www.canva.com/design/DAGSnvWujNU/5AY_JqfsQidCCFrQ1QTCFw/edit?utm_content=DAGSnvWujNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## 🚀 Key Features
 
 1. **🔍 Route Inquiry**  
