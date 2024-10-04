@@ -6,7 +6,7 @@ SmartCommute is a Command Line Interface (CLI) application designed to enhance t
 
 ## 🛝 Slides 
 
-- **Slides in canva**[Canva](https://www.canva.com/design/DAGSnvWujNU/5AY_JqfsQidCCFrQ1QTCFw/edit?utm_content=DAGSnvWujNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Slides in canva** [Canva](https://www.canva.com/design/DAGSnvWujNU/5AY_JqfsQidCCFrQ1QTCFw/edit?utm_content=DAGSnvWujNU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🚀 Key Features
 
