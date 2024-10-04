@@ -1,2 +1,52 @@
-# documentation
-This repository contains the project's documentation, including CRC cards, activity diagrams, sequence diagrams, and class diagrams. All materials related to the design and modeling aspects of the project are organized here.
+# 🚍 SmartCommute CLI - TransMilenio Management and Simulation Platform
+
+## 📄 Description
+
+SmartCommute is a Command Line Interface (CLI) application designed to enhance the experience of users of Bogotá's TransMilenio public transportation system. With features such as route inquiries, card recharging, and trip planning, the application aims to optimize passenger mobility and increase the system's efficiency.
+
+## 🚀 Key Features
+
+1. **🔍 Route Inquiry**  
+   Users can input the route name or code to retrieve information about the route, including schedules and stops. The query is automatically saved in the user's history.
+
+2. **🅿️ Station Inquiry**  
+   Users can search for stations and see the buses that pass through them. This information is also saved in the user's history for future reference.
+
+3. **💳 Card Recharge**  
+   The application allows users to recharge their transportation card. If it's the first time, the user will be prompted to input their card details; otherwise, the app will proceed directly to the recharge menu.
+
+4. **⚠️ System Issue Inquiry**  
+   Users can check for updates on the system, such as detours, closed stations, or operational issues.
+
+5. **🗺️ Plan Your Trip**  
+   Users can input their starting point and destination to see available routes. Custom locations can be saved to simplify future trip planning.
+
+6. **🕓 History**  
+   Users can review their history of route, station, and planned trip inquiries, making it easy to access recent travel information.
+
+7. **📍 Add Custom Location**  
+   Users can save frequently visited locations, such as "Home" or "Work," to facilitate future trip planning.
+
+8. **🚪 Exit**  
+   Safely exit the application.
+
+
+
+## 🛠️ Technologies Used
+
+- **BPMN** for business process modeling
+- **CRC Cards** and **Class Diagrams** for object-oriented design
+
+## 📂 Resource Repository
+
+- **Paper** 📄: [paper.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/(Paper)IEEE_TransmiApp_CLI.pdf)
+- **Poster** 🖼️: [poster.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/POSTER.pdf)
+- **Diagrams** 📊: Includes BPMN, CRC Cards, and Class Diagrams in [TechnicalReport.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/Technical%20Report%20on%20TransmiApp%20CLI.pdf).
+
+## 📬 Contact
+
+- **David Felipe Garcia Leon** 🦎: [GitHub](https://github.com/davidfgl)
+- **Juan Esteban Bedoya Lautero** 🦮: [GitHub](https://github.com/bl815v)
+
+
+
