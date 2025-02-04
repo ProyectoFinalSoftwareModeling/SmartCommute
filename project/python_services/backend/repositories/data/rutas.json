@@ -1,0 +1,5709 @@
+{
+  "routes": [
+    {
+      "id": "G43",
+      "name": "Ruta G43",
+      "schedule": [
+        {
+          "day": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Modelia",
+        "Normandía",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Salitre - El Greco",
+        "Gobernación",
+        "Quinta Paredes",
+        "Corferias",
+        "Cad",
+        "Ricaurte",
+        "General Santander",
+        "Venecia",
+        "La Despensa",
+        "León XIII",
+        "Terreros - Hospital Cardiovascular",
+        "San Mateo - C.C. Unisur"
+      ]
+    },
+    {
+      "id": "G47",
+      "name": "Ruta G47",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "San Diego",
+        "Las Nieves",
+        "San Victorino",
+        "Tygua - San José",
+        "Guatoque - Veraguas",
+        "Comuneros",
+        "NQS - Calle 38a Sur",
+        "Sevillana",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Perdomo",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "F51",
+      "name": "Ruta F51",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "San Diego",
+        "Las Nieves",
+        "Ricaurte",
+        "Distrito Grafiti",
+        "Pradera - Plaza Central",
+        "Marsella",
+        "Avenida Américas - Avenida Boyacá",
+        "Mandalay",
+        "Banderas",
+        "Biblioteca Tintal",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "F23",
+      "name": "Ruta F23",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Las Aguas - Centro Colombo Americano",
+        "Museo Del Oro",
+        "Avenida Jiménez",
+        "San Façon - Carrera 22",
+        "Ricaurte",
+        "Puente Aranda",
+        "Pradera - Plaza Central",
+        "Avenida Américas - Avenida Boyacá",
+        "Banderas",
+        "Biblioteca Tintal",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "L10",
+      "name": "Ruta L10",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Modelia",
+        "Normandía",
+        "Salitre - El Greco",
+        "Can - British Council",
+        "Gobernación",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Centro Memoria",
+        "Calle 22",
+        "Avenida Jiménez",
+        "Tercer Milenio",
+        "Bicentenario",
+        "San Bernardo",
+        "Ciudad Jardín - Uan",
+        "Avenida 1° De Mayo",
+        "Portal 20 De Julio"
+      ]
+    },
+    {
+      "id": "G22",
+      "name": "Ruta G22",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Granja - Carrera 77",
+        "Minuto De Dios",
+        "Boyacá",
+        "Avenida 68",
+        "Carrera 47",
+        "NQS Calle 75 - Zona M",
+        "Avenida Chile",
+        "Universidad Nacional",
+        "Avenida El Dorado",
+        "Paloquemao",
+        "Santa Isabel",
+        "General Santander",
+        "Sevillana",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "M51",
+      "name": "Ruta M51",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Banderas",
+        "Mandalay",
+        "Avenida Américas - Avenida Boyacá",
+        "Marsella",
+        "Pradera - Plaza Central",
+        "Distrito Grafiti",
+        "Ricaurte",
+        "Las Nieves",
+        "San Diego",
+        "Museo Nacional - Fondo Nacional De Garantías"
+      ]
+    },
+    {
+      "id": "L41",
+      "name": "Ruta L41",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "San Mateo - C.C. Unisur",
+        "Terreros - Hospital Cardiovascular",
+        "Bosa",
+        "Alquería",
+        "NQS - Calle 30 Sur",
+        "Guatoque - Veraguas",
+        "Tygua - San José",
+        "Bicentenario"
+      ]
+    },
+    {
+      "id": "B13",
+      "name": "Ruta B13",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Tunal",
+        "Biblioteca",
+        "Calle 40 Sur",
+        "Quiroga",
+        "Restrepo",
+        "Hortua",
+        "Tercer Milenio",
+        "Calle 22",
+        "Avenida 39",
+        "Flores - Areandina",
+        "Calle 76 - San Felipe",
+        "Calle 85 - Gato Dumas",
+        "Calle 106",
+        "Calle 145 (Lado Sur)",
+        "Mazurén (Lado Norte)",
+        "Calle 161 (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "B27",
+      "name": "Ruta B27",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Tunal",
+        "Calle 40 Sur",
+        "Avenida Jiménez",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Héroes",
+        "Calle 85 - Gato Dumas",
+        "Virrey",
+        "Calle 100 - Marketmedios",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "G45",
+      "name": "Ruta G45",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "08:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Bosa",
+        "La Despensa",
+        "León XIII",
+        "Terreros - Hospital Cardiovascular",
+        "San Mateo - C.C. Unisur"
+      ]
+    },
+    {
+      "id": "J70",
+      "name": "Ruta J70",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 146",
+        "Calle 142 (Lado Sur)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Prado",
+        "Calle 127",
+        "Cad",
+        "Avenida Jiménez",
+        "Museo Del Oro",
+        "Las Aguas - Centro Colombo Americano"
+      ]
+    },
+    {
+      "id": "C25",
+      "name": "Ruta C25",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Country Sur",
+        "Avenida 1° De Mayo",
+        "San Bernardo",
+        "Bicentenario",
+        "Tygua - San José",
+        "Guatoque - Veraguas",
+        "Ricaurte",
+        "Campín - Uan",
+        "Movistar Arena",
+        "Avenida Chile",
+        "NQS Calle 75 - Zona M",
+        "San Martín",
+        "Suba - Calle 95",
+        "Niza - Calle 127",
+        "Suba - Avenida Boyacá",
+        "21 Ángeles",
+        "Suba - Transversal 91",
+        "La Campiña",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "G41",
+      "name": "Ruta G41",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Bicentenario",
+        "Tygua - San José",
+        "Guatoque - Veraguas",
+        "NQS - Calle 30 Sur",
+        "Alquería",
+        "Bosa",
+        "Terreros - Hospital Cardiovascular",
+        "San Mateo - C.C. Unisur"
+      ]
+    },
+    {
+      "id": "H72",
+      "name": "Ruta H72",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "06:00",
+          "end_time": "21:00"
+        }
+      ],
+      "estaciones": [
+        "Toberín - Foundever (Lado Norte)",
+        "Mazurén (Lado Norte)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Pepe Sierra",
+        "La Castellana",
+        "Avenida Chile",
+        "Movistar Arena",
+        "Paloquemao",
+        "Tygua - San José",
+        "Hospital",
+        "Nariño",
+        "Fucha",
+        "Olaya",
+        "Socorro",
+        "Molinos",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "L18",
+      "name": "Ruta L18",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Terminal",
+        "Calle 187",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Calle 127",
+        "Pepe Sierra",
+        "Virrey",
+        "Calle 76 - San Felipe",
+        "Calle 45 - American School Way",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Tercer Milenio",
+        "Bicentenario",
+        "San Bernardo",
+        "Avenida 1° De Mayo",
+        "Country Sur",
+        "Portal 20 De Julio"
+      ]
+    },
+    {
+      "id": "H15",
+      "name": "Ruta H15",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "La Campiña",
+        "Suba - Transversal 91",
+        "Gratamira",
+        "Niza - Calle 127",
+        "Humedal Córdoba",
+        "Avenida Suba - Calle 116",
+        "Rionegro",
+        "Calle 76 - San Felipe",
+        "Calle 57",
+        "Calle 45 - American School Way",
+        "Calle 22",
+        "Calle 19",
+        "Avenida Jiménez",
+        "Tercer Milenio",
+        "Nariño",
+        "Calle 40 Sur",
+        "Parque",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "B16",
+      "name": "Ruta B16",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Modelia",
+        "Avenida Rojas - Unisalesiana",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Salitre - El Greco",
+        "Can - British Council",
+        "Quinta Paredes",
+        "Corferias",
+        "Avenida El Dorado",
+        "Avenida Chile",
+        "Pepe Sierra",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 187",
+        "Terminal"
+      ]
+    },
+    {
+      "id": "G12",
+      "name": "Ruta G12",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Prado",
+        "Calle 127",
+        "Calle 100 - Marketmedios",
+        "La Castellana",
+        "NQS Calle 75 - Zona M",
+        "7 De Agosto",
+        "Universidad Nacional",
+        "Avenida El Dorado",
+        "Ricaurte",
+        "Comuneros",
+        "General Santander",
+        "Perdomo",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "K43",
+      "name": "Ruta K43",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "San Mateo - C.C. Unisur",
+        "Terreros - Hospital Cardiovascular",
+        "León XIII",
+        "La Despensa",
+        "Venecia",
+        "General Santander",
+        "Ricaurte",
+        "Cad",
+        "Corferias",
+        "Quinta Paredes",
+        "Gobernación",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Normandía",
+        "Modelia",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "B18",
+      "name": "Ruta B18",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Country Sur",
+        "Avenida 1° De Mayo",
+        "San Bernardo",
+        "Bicentenario",
+        "Tercer Milenio",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 45 - American School Way",
+        "Calle 76 - San Felipe",
+        "Virrey",
+        "Pepe Sierra",
+        "Calle 127",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Calle 187",
+        "Terminal"
+      ]
+    },
+    {
+      "id": "M47",
+      "name": "Ruta M47",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Perdomo",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Sevillana",
+        "NQS - Calle 38a Sur",
+        "Comuneros",
+        "Guatoque - Veraguas",
+        "Tygua - San José",
+        "San Victorino",
+        "Las Nieves",
+        "San Diego",
+        "Museo Nacional - Fondo Nacional De Garantías"
+      ]
+    },
+    {
+      "id": "L25",
+      "name": "Ruta L25",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "La Campiña",
+        "Suba - Transversal 91",
+        "21 Ángeles",
+        "Suba - Avenida Boyacá",
+        "Niza - Calle 127",
+        "Suba - Calle 95",
+        "San Martín",
+        "NQS Calle 75 - Zona M",
+        "Avenida Chile",
+        "Movistar Arena",
+        "Campín - Uan",
+        "Ricaurte",
+        "Guatoque - Veraguas",
+        "Tygua - San José",
+        "Bicentenario",
+        "San Bernardo",
+        "Avenida 1° De Mayo",
+        "Country Sur",
+        "Portal 20 De Julio"
+      ]
+    },
+    {
+      "id": "E32",
+      "name": "Ruta E32",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Transversal 86",
+        "Banderas",
+        "Avenida Américas - Avenida Boyacá",
+        "Puente Aranda",
+        "Zona Industrial",
+        "Cad",
+        "Avenida El Dorado",
+        "Universidad Nacional",
+        "7 De Agosto",
+        "Avenida Chile",
+        "NQS Calle 75 - Zona M"
+      ]
+    },
+    {
+      "id": "D22",
+      "name": "Ruta D22",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Sevillana",
+        "General Santander",
+        "Santa Isabel",
+        "Paloquemao",
+        "Avenida El Dorado",
+        "Universidad Nacional",
+        "Avenida Chile",
+        "NQS Calle 75 - Zona M",
+        "Carrera 47",
+        "Avenida 68",
+        "Boyacá",
+        "Minuto De Dios",
+        "Granja - Carrera 77",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "H27",
+      "name": "Ruta H27",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 100 - Marketmedios",
+        "Virrey",
+        "Calle 85 - Gato Dumas",
+        "Héroes",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Avenida Jiménez",
+        "Calle 40 Sur",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "C19",
+      "name": "Ruta C19",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Banderas",
+        "Mandalay",
+        "Marsella",
+        "Distrito Grafiti",
+        "Zona Industrial",
+        "Ricaurte",
+        "De La Sabana",
+        "Calle 19",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Avenida 39",
+        "Flores - Areandina",
+        "Suba - Calle 95",
+        "Suba - Calle 100",
+        "Puentelargo",
+        "Suba - Avenida Boyacá",
+        "21 Ángeles",
+        "Suba - Transversal 91",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "B74",
+      "name": "Ruta B74",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "07:00",
+          "end_time": "20:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Las Aguas - Centro Colombo Americano",
+        "Museo Del Oro",
+        "Calle 19",
+        "Avenida 39",
+        "Calle 45 - American School Way",
+        "Calle 57",
+        "Héroes",
+        "Virrey",
+        "Calle 127",
+        "Prado",
+        "Calle 142 (Lado Sur)",
+        "Mazurén (Lado Norte)",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "F19",
+      "name": "Ruta F19",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "Suba - Transversal 91",
+        "21 Ángeles",
+        "Suba - Avenida Boyacá",
+        "Puentelargo",
+        "Suba - Calle 100",
+        "Suba - Calle 95",
+        "Flores - Areandina",
+        "Avenida 39",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 19",
+        "De La Sabana",
+        "Ricaurte",
+        "Zona Industrial",
+        "Distrito Grafiti",
+        "Marsella",
+        "Mandalay",
+        "Banderas"
+      ]
+    },
+    {
+      "id": "J74",
+      "name": "Ruta J74",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:30",
+          "end_time": "20:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Mazurén (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Prado",
+        "Calle 127",
+        "Virrey",
+        "Héroes",
+        "Calle 57",
+        "Calle 45 - American School Way",
+        "Avenida 39",
+        "Calle 19",
+        "Museo Del Oro",
+        "Las Aguas - Centro Colombo Americano"
+      ]
+    },
+    {
+      "id": "K54",
+      "name": "Ruta K54",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Danubio",
+        "Molinos",
+        "Calle 40 Sur",
+        "Restrepo",
+        "Hortua",
+        "Concejo De Bogotá",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Corferias",
+        "Quinta Paredes",
+        "Gobernación",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "Modelia",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "H73",
+      "name": "Ruta H73",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Toberín - Foundever (Lado Norte)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Prado",
+        "Calle 127",
+        "Calle 45 - American School Way",
+        "Avenida 39",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 19",
+        "Fucha",
+        "Olaya",
+        "Calle 40 Sur",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "C50",
+      "name": "Ruta C50",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "16:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "16:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "16:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "16:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "16:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Calle 161 (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Virrey",
+        "Calle 85 - Gato Dumas",
+        "Héroes",
+        "Escuela Militar",
+        "Rionegro",
+        "Puentelargo",
+        "Avenida Suba - Calle 116",
+        "21 Ángeles",
+        "Suba - Transversal 91",
+        "La Campiña",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "H20",
+      "name": "Ruta H20",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Quirigua",
+        "Granja - Carrera 77",
+        "Boyacá",
+        "Ferias",
+        "Avenida 68",
+        "Polo - Fincomercio",
+        "Flores - Areandina",
+        "Calle 45 - American School Way",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 19",
+        "Avenida Jiménez",
+        "Restrepo",
+        "Quiroga",
+        "Calle 40 Sur",
+        "Molinos",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "H54",
+      "name": "Ruta H54",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Modelia",
+        "Avenida Rojas - Unisalesiana",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Salitre - El Greco",
+        "Can - British Council",
+        "Quinta Paredes",
+        "Corferias",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Concejo De Bogotá",
+        "Hortua",
+        "Restrepo",
+        "Calle 40 Sur",
+        "Molinos",
+        "Danubio",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "F32",
+      "name": "Ruta F32",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "NQS Calle 75 - Zona M",
+        "Avenida Chile",
+        "7 De Agosto",
+        "Universidad Nacional",
+        "Avenida El Dorado",
+        "Cad",
+        "Zona Industrial",
+        "Puente Aranda",
+        "Avenida Américas - Avenida Boyacá",
+        "Banderas",
+        "Transversal 86",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "B28",
+      "name": "Ruta B28",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Banderas",
+        "Marsella",
+        "Zona Industrial",
+        "Cds - Carrera 32",
+        "La Castellana",
+        "Calle 106",
+        "Pepe Sierra",
+        "Prado",
+        "Calle 161 (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "B72",
+      "name": "Ruta B72",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Molinos",
+        "Socorro",
+        "Olaya",
+        "Fucha",
+        "Nariño",
+        "Hospital",
+        "Tygua - San José",
+        "Paloquemao",
+        "Movistar Arena",
+        "Avenida Chile",
+        "La Castellana",
+        "Pepe Sierra",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Mazurén (Lado Norte)",
+        "Toberín - Foundever (Lado Norte)"
+      ]
+    },
+    {
+      "id": "K86",
+      "name": "Ruta K86",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Fundación Santa Fe (Ak 7 - Cl 118) (A)",
+        "Calle 116 (Ak 7 - Cl 116) (B)",
+        "Escuela De Caballería (Ak 7 - Cl 101)",
+        "Parque La Gran Vía (Ak 7 - Cl 94)",
+        "Br. El Chicó (Ak 7 - Cl 90)",
+        "Br. La Cabrera (Ak 7 - Cl 86)",
+        "Calle 82 (Ak 7 - Cl 81)",
+        "Br. La Porciúncula (Ak 7 - Cl 74) (B)",
+        "Avenida Chile (Ak 7 - Cl 71) (B)",
+        "Br. Chapinero Norte (Ak 7 - Cl 66) (B)",
+        "Br. Chapinero Central (Ak 7 - Cl 60) (A)",
+        "Sena - Dirección General (Ak 7 - Cl 55) (A)",
+        "Universidad Santo Tomás (Ak 7 - Cl 51)",
+        "Universidad Distrital (Ak 7 - Cl 40) (B)",
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "Concejo De Bogotá",
+        "Corferias",
+        "Quinta Paredes",
+        "Gobernación",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Ciac (Ac 26 - Kr 103)",
+        "Puente Aéreo - E (Ac 26 - Kr 106)",
+        "Puente Aéreo - O (Ac 26 - Kr 106)",
+        "Aeropuerto Eldorado (B)",
+        "Cac (Ac 26 - Kr 106)",
+        "Aeronáutica Civil (Ac 26 - Kr 103)",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "K10",
+      "name": "Ruta K10",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Avenida 1° De Mayo",
+        "Ciudad Jardín - Uan",
+        "San Bernardo",
+        "Bicentenario",
+        "Tercer Milenio",
+        "Avenida Jiménez",
+        "Calle 22",
+        "Centro Memoria",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Gobernación",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "Normandía",
+        "Modelia",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "C15",
+      "name": "Ruta C15",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "21:30"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Tunal",
+        "Parque",
+        "Calle 40 Sur",
+        "Nariño",
+        "Tercer Milenio",
+        "Avenida Jiménez",
+        "Calle 19",
+        "Calle 22",
+        "Calle 45 - American School Way",
+        "Calle 57",
+        "Calle 76 - San Felipe",
+        "Rionegro",
+        "Avenida Suba - Calle 116",
+        "Humedal Córdoba",
+        "Niza - Calle 127",
+        "Gratamira",
+        "Suba - Transversal 91",
+        "La Campiña",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "B55",
+      "name": "Ruta B55",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Quirigua",
+        "Avenida Cali",
+        "Granja - Carrera 77",
+        "Minuto De Dios",
+        "Ferias",
+        "Polo - Fincomercio",
+        "Héroes",
+        "Virrey",
+        "Calle 106",
+        "Pepe Sierra",
+        "Prado",
+        "Calle 142 (Lado Sur)",
+        "Calle 161 (Lado Norte)",
+        "Toberín - Foundever (Lado Norte)"
+      ]
+    },
+    {
+      "id": "D20",
+      "name": "Ruta D20",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Molinos",
+        "Calle 40 Sur",
+        "Quiroga",
+        "Restrepo",
+        "Avenida Jiménez",
+        "Calle 19",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 45 - American School Way",
+        "Flores - Areandina",
+        "Polo - Fincomercio",
+        "Avenida 68",
+        "Ferias",
+        "Boyacá",
+        "Granja - Carrera 77",
+        "Quirigua",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "H13",
+      "name": "Ruta H13",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Calle 161 (Lado Norte)",
+        "Mazurén (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Calle 106",
+        "Calle 85 - Gato Dumas",
+        "Calle 76 - San Felipe",
+        "Flores - Areandina",
+        "Avenida 39",
+        "Calle 22",
+        "Tercer Milenio",
+        "Hortua",
+        "Restrepo",
+        "Quiroga",
+        "Calle 40 Sur",
+        "Biblioteca",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "K16",
+      "name": "Ruta K16",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Terminal",
+        "Calle 187",
+        "Toberín - Foundever (Lado Norte)",
+        "Mazurén (Lado Norte)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Pepe Sierra",
+        "Avenida Chile",
+        "Avenida El Dorado",
+        "Corferias",
+        "Quinta Paredes",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "Modelia",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "B46",
+      "name": "Ruta B46",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "San Mateo - C.C. Unisur",
+        "Terreros - Hospital Cardiovascular",
+        "León XIII",
+        "La Despensa",
+        "Bosa",
+        "Calle 100 - Marketmedios",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "G46",
+      "name": "Ruta G46",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Calle 100 - Marketmedios",
+        "Bosa",
+        "La Despensa",
+        "León XIII",
+        "Terreros - Hospital Cardiovascular",
+        "San Mateo - C.C. Unisur"
+      ]
+    },
+    {
+      "id": "F60",
+      "name": "Ruta F60",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Calle 76 - San Felipe",
+        "Calle 45 - American School Way",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "De La Sabana",
+        "Ricaurte",
+        "Carrera 43 - Comapan",
+        "Banderas",
+        "Transversal 86",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "A60",
+      "name": "Ruta A60",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Transversal 86",
+        "Banderas",
+        "Carrera 43 - Comapan",
+        "Ricaurte",
+        "De La Sabana",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 45 - American School Way",
+        "Calle 76 - San Felipe"
+      ]
+    },
+    {
+      "id": "F61",
+      "name": "Ruta F61",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Polo - Fincomercio",
+        "Flores - Areandina",
+        "Calle 57",
+        "Avenida 39",
+        "Calle 19",
+        "Cds - Carrera 32",
+        "Marsella",
+        "Banderas",
+        "Biblioteca Tintal",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "H83",
+      "name": "Ruta H83",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "San Diego",
+        "San Victorino",
+        "Bicentenario",
+        "Policarpa",
+        "Avenida 1° De Mayo",
+        "Consuelo",
+        "Escuela De Artillería No. 13 (Av. Caracas - Tv 5d)",
+        "Ladrillera Santafé (Av. Caracas - Cl 65 Sur)",
+        "Portal De Usme (Av. Caracas - Cl 64 Sur)",
+        "Portal De Usme (Cl 67d Sur - Kr 11)"
+      ]
+    },
+    {
+      "id": "D55",
+      "name": "Ruta D55",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 161 (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Prado",
+        "Pepe Sierra",
+        "Calle 106",
+        "Virrey",
+        "Héroes",
+        "Polo - Fincomercio",
+        "Ferias",
+        "Minuto De Dios",
+        "Granja - Carrera 77",
+        "Avenida Cali",
+        "Quirigua",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "J23",
+      "name": "Ruta J23",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Banderas",
+        "Avenida Américas - Avenida Boyacá",
+        "Pradera - Plaza Central",
+        "Puente Aranda",
+        "Ricaurte",
+        "San Façon - Carrera 22",
+        "Avenida Jiménez",
+        "Museo Del Oro",
+        "Las Aguas - Centro Colombo Americano"
+      ]
+    },
+    {
+      "id": "L82",
+      "name": "Ruta L82",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "21:00"
+        }
+      ],
+      "estaciones": [
+        "Clínica El Bosque (Ac 134 - Ak 7)",
+        "Br. Ginebra Norte (Ak 7 - Cl 132)",
+        "Br. Bella Suiza (Ak 7 - Cl 127b)",
+        "Br. Santa Bárbara Oriental (Ak 7 - Cl 124)",
+        "Fundación Santa Fe (Ak 7 - Cl 118) (B)",
+        "Calle 116 (Ak 7 - Cl 116) (A)",
+        "Br. Santa Ana Occidental (Ak 7 - Cl 110)",
+        "Teatro Patria (Ak 7 - Cl 106)",
+        "Escuela De Caballería (Ak 7 - Cl 101)",
+        "Br. Chicó Reservado (Ak 7 - Cl 97a)",
+        "Parque La Gran Vía (Ak 7 - Cl 94)",
+        "Br. El Chicó (Ak 7 - Cl 90)",
+        "Br. El Nogal (Ak 7 - Cl 79)",
+        "Br. La Porciúncula (Ak 7 - Cl 74) (A)",
+        "San Diego",
+        "Bicentenario",
+        "Avenida 1° De Mayo",
+        "Country Sur",
+        "Portal 20 De Julio"
+      ]
+    },
+    {
+      "id": "M82",
+      "name": "Ruta M82",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Country Sur",
+        "Avenida 1° De Mayo",
+        "Bicentenario",
+        "San Diego",
+        "Br. Los Rosales (Ak 7 - Cl 78)",
+        "Br. Chicó Oriental (Ak 7 - Cl 92)",
+        "Calle 94 (Ak 7 - Cl 94)",
+        "Escuela Caballería (Ak 7 - Cl 100)",
+        "Cantón Norte (Ak 7 - Cl 106)",
+        "Br. Santa Ana (Ak 7 - Cl 110a)",
+        "Hacienda Santa Bárbara (Ak 7 - Cl 114)",
+        "Br. Usaquén (Ak 7 - Cl 119b)",
+        "Br. San Gabriel Norte (Ak 7 - Cl 124)",
+        "Br. Unicerros (Ak 7 - Cl 127b)",
+        "Br. Ginebra (Ak 7 - Cl 130b)",
+        "Clínica El Bosque (Ac 134 - Ak 7)"
+      ]
+    },
+    {
+      "id": "M83",
+      "name": "Ruta M83",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme (Cl 67d Sur - Kr 11)",
+        "Escuela De Artillería No. 13 (Av. Caracas - Tv 5d)",
+        "Consuelo",
+        "Avenida 1° De Mayo",
+        "Policarpa",
+        "Bicentenario",
+        "San Victorino",
+        "San Diego",
+        "Museo Nacional - Fondo Nacional De Garantías"
+      ]
+    },
+    {
+      "id": "L81",
+      "name": "Ruta L81",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "06:00",
+          "end_time": "21:30"
+        }
+      ],
+      "estaciones": [
+        "Puente De Guadua (Ac 80 - Kr 119) (A)",
+        "Br. El Cortijo (Ac 80 - Kr 114) (A)",
+        "Br. Villas De Granada (Ac 80 - Kr 112 Bis) (A)",
+        "Br. Garcés Navas (Ac 80 - Kr 110)",
+        "Br. Garcés Navas Occidental (Ac 80 - Tv 106)",
+        "Avenida 68",
+        "Carrera 47",
+        "Polo - Fincomercio",
+        "Parque León De Greiff (Ac 85 - Kr 13)",
+        "Br. Espartillal (Kr 11 - Cl 78)",
+        "Universidad Pedagógica (Ac 72 - Kr 10)",
+        "Clínica De Traumatología Y Ortopedia (Ak 11 - Cl 70a) (A)",
+        "Avenida Chile (Ak 7 - Cl 71) (A)",
+        "Br. Chapinero Norte (Ak 13 - Cl 66)",
+        "Br. Chapinero Norte (Ak 7 - Cl 66) (A)",
+        "Br. Chapinero Central (Ak 7 - Cl 61) (B)",
+        "Cuerpo Oficial De Bomberos De Bogotá (Ak 13 - Cl 60 Bis) (A)",
+        "Sena - Dirección General (Ak 7 - Cl 56) (B)",
+        "Alcaldía Local De Chapinero (Ak 13 - Cl 55)",
+        "Secretaría Del Hábitat (Ak 13 - Cl 52)",
+        "Universidad Santo Tomás (Ak 7 - Cl 51)",
+        "Calle 45 (Ak 7 - Ac 45)",
+        "Universidad La Gran Colombia (Ak 13 - Cl 42a) (A)",
+        "Universidad Distrital (Ak 7 - Cl 40) (A)",
+        "Br. Sagrado Corazón (Ak 13 - Cl 37)",
+        "Car Cundinamarca (Ak 7 - Cl 36)",
+        "Br. Samper (Ak 7 - Cl 33)",
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "San Victorino",
+        "Bicentenario",
+        "Avenida 1° De Mayo",
+        "Country Sur",
+        "Portal 20 De Julio"
+      ]
+    },
+    {
+      "id": "D81",
+      "name": "Ruta D81",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Country Sur",
+        "Avenida 1° De Mayo",
+        "Bicentenario",
+        "San Victorino",
+        "Museo Nacional - Fondo Nacional De Garantías Br. La Merced (Ak 7 - Cl 34)",
+        "Parque Nacional (Ak 7 - Cl 37)",
+        "Universidad Javeriana (Ak 7 - Cl 40) (A)",
+        "Calle 45 (Ak 7 - Ac 45)",
+        "Hospital Militar (Ak 7 - Cl 50)",
+        "Br. Bosque Calderón (Ak 7 - Cl 57)",
+        "Universidad La Salle (Ak 7 - Cl 61)",
+        "Calle 67 (Ak 7 - Cl 66)",
+        "Avenida Chile (Ak 7 - Cl 70a) (A)",
+        "Br. Bellavista (Ak 7 - Cl 73)",
+        "Avenida Carrera 11 (Cl 76 - Ak 11) (B)",
+        "Polo - Fincomercio",
+        "Carrera 47",
+        "Avenida 68",
+        "Br. Bolivia Occidental (Ac 80 - Kr 107)",
+        "Br. Garcés Navas (Ac 80 - Kr 109a)",
+        "Br. Ciudadela Colsubsidio (Ac 80 - Kr 111c)",
+        "Br. El Cortijo (Ac 80 - Kr 114)"
+      ]
+    },
+    {
+      "id": "C84",
+      "name": "Ruta C84",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "07:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Br. Bellavista (Ak 7 - Cl 73)",
+        "Avenida Carrera 11 (Cl 76 - Ak 11) (A)",
+        "Polo - Fincomercio",
+        "Puentelargo",
+        "21 Ángeles",
+        "Br. Lombardía II (Av. Suba - Kr 110a) (B)",
+        "Etb Tibabuyes (Av. Suba - Kr 114d) (B)"
+      ]
+    },
+    {
+      "id": "M84",
+      "name": "Ruta M84",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Etb Tibabuyes (Av. Suba - Kr 114d) (B)",
+        "Br. Lombardía (Av. Suba - Kr 110) (B)",
+        "21 Ángeles",
+        "Puentelargo",
+        "Polo - Fincomercio",
+        "Br. Antiguo Country (Ac 85 - Kr 16a)",
+        "Centro Comercial La Cabrera (Ac 85 - Ak 11)",
+        "Br. Espartillal (Kr 11 - Cl 78)",
+        "Universidad Pedagógica (Ac 72 - Kr 10)",
+        "Br. Bellavista (Ak 7 - Cl 73)"
+      ]
+    },
+    {
+      "id": "M86",
+      "name": "Ruta M86",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "22:05"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "22:05"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "22:05"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "22:05"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "22:05"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "22:15"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "21:15"
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Salitre - El Greco",
+        "Can - British Council",
+        "Gobernación",
+        "Quinta Paredes",
+        "Corferias",
+        "Concejo De Bogotá",
+        "San Diego",
+        "Museo Nacional - Fondo Nacional De Garantías",
+        "Universidad Javeriana (Ak 7 - Cl 40) (B)",
+        "Hospital Militar (Ak 7 - Cl 50)",
+        "Br. Bosque Calderón (Ak 7 - Cl 57)",
+        "Universidad La Salle (Ak 7 - Cl 61)",
+        "Calle 67 (Ak 7 - Cl 66)",
+        "Avenida Chile (Ak 7 - Cl 70a) (B)",
+        "Calle 82 (Ak 7 - Cl 82)",
+        "Br. El Refugio (Ak 7 - Cl 87)",
+        "Br. Chicó Oriental (Ak 7 - Cl 92)",
+        "Calle 94 (Ak 7 - Cl 94)",
+        "Escuela Caballería (Ak 7 - Cl 100)",
+        "Hacienda Santa Bárbara (Ak 7 - Cl 114)"
+      ]
+    },
+    {
+      "id": "G52",
+      "name": "Ruta G52",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "16:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "16:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "16:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "16:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "16:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Flores - Areandina",
+        "Calle 76 - San Felipe",
+        "Santa Isabel",
+        "NQS - Calle 30 Sur",
+        "General Santander",
+        "Alquería",
+        "Venecia",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Perdomo",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "A52",
+      "name": "Ruta A52",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Perdomo",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Venecia",
+        "Alquería",
+        "General Santander",
+        "NQS - Calle 30 Sur",
+        "Santa Isabel",
+        "Calle 76 - San Felipe",
+        "Flores - Areandina"
+      ]
+    },
+    {
+      "id": "B11",
+      "name": "Ruta B11",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:00",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Alquería",
+        "NQS - Calle 30 Sur",
+        "Santa Isabel",
+        "Ricaurte",
+        "Paloquemao",
+        "Campín - Uan",
+        "Escuela Militar",
+        "Héroes",
+        "Calle 85 - Gato Dumas",
+        "Virrey",
+        "Calle 106",
+        "Pepe Sierra",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 187",
+        "Terminal"
+      ]
+    },
+    {
+      "id": "B10",
+      "name": "Ruta B10",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "21:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "06:30",
+          "end_time": "20:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Carrera 90",
+        "Avenida Cali",
+        "Granja - Carrera 77",
+        "Boyacá",
+        "Avenida 68",
+        "Carrera 53",
+        "Carrera 47",
+        "Calle 85 - Gato Dumas",
+        "Calle 100 - Marketmedios",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "G11",
+      "name": "Ruta G11",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Terminal",
+        "Calle 187",
+        "Toberín - Foundever (Lado Norte)",
+        "Pepe Sierra",
+        "Calle 106",
+        "Virrey",
+        "Calle 85 - Gato Dumas",
+        "Héroes",
+        "Escuela Militar",
+        "Campín - Uan",
+        "Paloquemao",
+        "Ricaurte",
+        "Santa Isabel",
+        "NQS - Calle 30 Sur",
+        "Alquería",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "F28",
+      "name": "Ruta F28",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Calle 161 (Lado Norte)",
+        "Prado",
+        "Pepe Sierra",
+        "Calle 106",
+        "La Castellana",
+        "Cds - Carrera 32",
+        "Zona Industrial",
+        "Marsella",
+        "Banderas",
+        "Biblioteca Tintal",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "D10",
+      "name": "Ruta D10",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "06:30",
+          "end_time": "20:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 146",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Calle 100 - Marketmedios",
+        "Calle 85 - Gato Dumas",
+        "Carrera 47",
+        "Carrera 53",
+        "Avenida 68",
+        "Boyacá",
+        "Granja - Carrera 77",
+        "Avenida Cali",
+        "Carrera 90",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "B12",
+      "name": "Ruta B12",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:30"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Perdomo",
+        "General Santander",
+        "Comuneros",
+        "Ricaurte",
+        "Avenida El Dorado",
+        "Universidad Nacional",
+        "7 De Agosto",
+        "NQS Calle 75 - Zona M",
+        "La Castellana",
+        "Calle 100 - Marketmedios",
+        "Calle 127",
+        "Prado",
+        "Calle 142 (Lado Sur)",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "B50",
+      "name": "Ruta B50",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "La Campiña",
+        "Suba - Transversal 91",
+        "21 Ángeles",
+        "Avenida Suba - Calle 116",
+        "Puentelargo",
+        "Rionegro",
+        "Escuela Militar",
+        "Héroes",
+        "Calle 85 - Gato Dumas",
+        "Virrey",
+        "Calle 142 (Lado Sur)",
+        "Calle 161 (Lado Norte)"
+      ]
+    },
+    {
+      "id": "A61",
+      "name": "Ruta A61",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Banderas",
+        "Marsella",
+        "Cds - Carrera 32",
+        "Calle 19",
+        "Avenida 39",
+        "Calle 57",
+        "Flores - Areandina",
+        "Calle 72"
+      ]
+    },
+    {
+      "id": "G30",
+      "name": "Ruta G30",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "15:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "Suba - Transversal 91",
+        "Suba - Avenida Boyacá",
+        "Avenida Suba - Calle 116",
+        "Puentelargo",
+        "Rionegro",
+        "Movistar Arena",
+        "Universidad Nacional",
+        "Cad",
+        "Santa Isabel",
+        "NQS - Calle 38a Sur",
+        "General Santander",
+        "Venecia",
+        "Portal Del Sur - JFK Cooperativa Financiera"
+      ]
+    },
+    {
+      "id": "C30",
+      "name": "Ruta C30",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "15:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Venecia",
+        "General Santander",
+        "NQS - Calle 38a Sur",
+        "Santa Isabel",
+        "Cad",
+        "Universidad Nacional",
+        "Movistar Arena",
+        "Rionegro",
+        "Puentelargo",
+        "Avenida Suba - Calle 116",
+        "Suba - Avenida Boyacá",
+        "Suba - Transversal 91",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "H75",
+      "name": "Ruta H75",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 142 (Lado Sur)",
+        "Prado",
+        "Calle 100 - Marketmedios",
+        "Héroes",
+        "Calle 76 - San Felipe",
+        "Calle 57",
+        "Avenida 39",
+        "Avenida Jiménez",
+        "Hortua",
+        "Nariño",
+        "Fucha",
+        "Santa Lucía",
+        "Consuelo",
+        "Molinos",
+        "Danubio",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "G42",
+      "name": "Ruta G42",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "7 De Agosto",
+        "Campín - Uan",
+        "Universidad Nacional",
+        "Paloquemao",
+        "Comuneros",
+        "Bosa",
+        "La Despensa",
+        "León XIII",
+        "Terreros - Hospital Cardiovascular",
+        "San Mateo - C.C. Unisur"
+      ]
+    },
+    {
+      "id": "B75",
+      "name": "Ruta B75",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Danubio",
+        "Molinos",
+        "Consuelo",
+        "Santa Lucía",
+        "Fucha",
+        "Nariño",
+        "Hortua",
+        "Avenida Jiménez",
+        "Avenida 39",
+        "Calle 57",
+        "Calle 76 - San Felipe",
+        "Héroes",
+        "Calle 100 - Marketmedios",
+        "Prado",
+        "Calle 142 (Lado Sur)",
+        "Calle 146",
+        "Toberín - Foundever (Lado Norte)",
+        "Portal Del Norte"
+      ]
+    },
+    {
+      "id": "E42",
+      "name": "Ruta E42",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "San Mateo - C.C. Unisur",
+        "Terreros - Hospital Cardiovascular",
+        "León XIII",
+        "La Despensa",
+        "Bosa",
+        "Comuneros",
+        "Paloquemao",
+        "Universidad Nacional",
+        "Campín - Uan",
+        "7 De Agosto"
+      ]
+    },
+    {
+      "id": "H21",
+      "name": "Ruta H21",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Carrera 90",
+        "Avenida Cali",
+        "Granja - Carrera 77",
+        "Minuto De Dios",
+        "Avenida 68",
+        "7 De Agosto",
+        "Movistar Arena",
+        "Campín - Uan",
+        "Ricaurte",
+        "Guatoque - Veraguas",
+        "Fucha",
+        "Calle 40 Sur",
+        "Santa Lucía",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "D21",
+      "name": "Ruta D21",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Del Tunal",
+        "Santa Lucía",
+        "Calle 40 Sur",
+        "Fucha",
+        "Guatoque - Veraguas",
+        "Ricaurte",
+        "Campín - Uan",
+        "Movistar Arena",
+        "7 De Agosto",
+        "Avenida 68",
+        "Minuto De Dios",
+        "Granja - Carrera 77",
+        "Avenida Cali",
+        "Carrera 90",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "J24",
+      "name": "Ruta J24",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "20:30"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De La 80",
+        "Carrera 90",
+        "Avenida Cali",
+        "Granja - Carrera 77",
+        "Minuto De Dios",
+        "Carrera 47",
+        "Escuela Militar",
+        "Calle 76 - San Felipe",
+        "Calle 57",
+        "Avenida 39",
+        "Universidades - City U"
+      ]
+    },
+    {
+      "id": "B23",
+      "name": "Ruta B23",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Salitre - El Greco",
+        "Can - British Council",
+        "Gobernación",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Concejo De Bogotá",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 45 - American School Way",
+        "Calle 57",
+        "Calle 85 - Gato Dumas",
+        "Calle 127",
+        "Prado",
+        "Alcalá - Col. S Tomás Dominicos"
+      ]
+    },
+    {
+      "id": "B26",
+      "name": "Ruta B26",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Transversal 86",
+        "Banderas",
+        "Mandalay",
+        "Avenida Américas - Avenida Boyacá",
+        "Héroes",
+        "Calle 85 - Gato Dumas",
+        "Virrey",
+        "Calle 100 - Marketmedios",
+        "Calle 127",
+        "Alcalá - Col. S Tomás Dominicos"
+      ]
+    },
+    {
+      "id": "H76",
+      "name": "Ruta H76",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Universidades - City U",
+        "Calle 19",
+        "Avenida Jiménez",
+        "Tercer Milenio",
+        "Restrepo",
+        "Calle 40 Sur",
+        "Santa Lucía",
+        "Consuelo",
+        "Molinos",
+        "Danubio",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "K23",
+      "name": "Ruta K23",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:30",
+          "end_time": "22:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Alcalá - Col. S Tomás Dominicos",
+        "Prado",
+        "Calle 127",
+        "Calle 85 - Gato Dumas",
+        "Calle 57",
+        "Calle 45 - American School Way",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Concejo De Bogotá",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Gobernación",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "F26",
+      "name": "Ruta F26",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "15:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "12:00",
+          "end_time": "18:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Alcalá - Col. S Tomás Dominicos",
+        "Calle 127",
+        "Calle 100 - Marketmedios",
+        "Virrey",
+        "Calle 85 - Gato Dumas",
+        "Héroes",
+        "Avenida Américas - Avenida Boyacá",
+        "Mandalay",
+        "Banderas",
+        "Transversal 86",
+        "Biblioteca Tintal",
+        "Portal De Las Américas"
+      ]
+    },
+    {
+      "id": "C73",
+      "name": "Ruta C73",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "16:00",
+          "end_time": "22:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Universidades - City U",
+        "Centro Memoria",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "San Martín",
+        "Suba - Calle 100",
+        "Puentelargo",
+        "Niza - Calle 127",
+        "Suba - Transversal 91",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "D24",
+      "name": "Ruta D24",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "06:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "06:00",
+          "end_time": "21:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Universidades - City U",
+        "Avenida 39",
+        "Calle 57",
+        "Calle 76 - San Felipe",
+        "Escuela Militar",
+        "Carrera 47",
+        "Minuto De Dios",
+        "Granja - Carrera 77",
+        "Avenida Cali",
+        "Carrera 90",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "J73",
+      "name": "Ruta J73",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:30",
+          "end_time": "09:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "Suba - Transversal 91",
+        "Niza - Calle 127",
+        "Puentelargo",
+        "Suba - Calle 100",
+        "San Martín",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Centro Memoria",
+        "Universidades - City U"
+      ]
+    },
+    {
+      "id": "J76",
+      "name": "Ruta J76",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "friday",
+          "start_time": "05:00",
+          "end_time": "08:30"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "",
+          "end_time": ""
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Danubio",
+        "Molinos",
+        "Consuelo",
+        "Santa Lucía",
+        "Calle 40 Sur",
+        "Restrepo",
+        "Tercer Milenio",
+        "Avenida Jiménez",
+        "Calle 19",
+        "Universidades - City U"
+      ]
+    },
+    {
+      "id": "H17",
+      "name": "Ruta H17",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "05:00",
+          "end_time": "15:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Suba",
+        "La Campiña",
+        "Suba - Transversal 91",
+        "Niza - Calle 127",
+        "Avenida Suba - Calle 116",
+        "Puentelargo",
+        "Suba - Calle 100",
+        "Suba - Calle 95",
+        "San Martín",
+        "7 De Agosto",
+        "Universidad Nacional",
+        "Avenida El Dorado",
+        "Paloquemao",
+        "Guatoque - Veraguas",
+        "Hortua",
+        "Restrepo",
+        "Quiroga",
+        "Santa Lucía",
+        "Consuelo",
+        "Danubio",
+        "Portal De Usme"
+      ]
+    },
+    {
+      "id": "C17",
+      "name": "Ruta C17",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "20:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "15:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "",
+          "end_time": ""
+        }
+      ],
+      "estaciones": [
+        "Portal De Usme",
+        "Danubio",
+        "Consuelo",
+        "Santa Lucía",
+        "Quiroga",
+        "Restrepo",
+        "Hortua",
+        "Guatoque - Veraguas",
+        "Paloquemao",
+        "Avenida El Dorado",
+        "Universidad Nacional",
+        "7 De Agosto",
+        "San Martín",
+        "Suba - Calle 95",
+        "Suba - Calle 100",
+        "Puentelargo",
+        "Avenida Suba - Calle 116",
+        "Niza - Calle 127",
+        "Suba - Transversal 91",
+        "La Campiña",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Ruta 1",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Universidades - City U",
+        "Centro Memoria",
+        "Concejo De Bogotá",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Corferias",
+        "Quinta Paredes",
+        "Gobernación",
+        "Can - British Council",
+        "Salitre - El Greco",
+        "El Tiempo - Cámara De Comercio De Bogotá",
+        "Avenida Rojas - Unisalesiana",
+        "Normandía",
+        "Modelia",
+        "Portal Eldorado - Centro Comercial Nuestro Bogotá"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ruta 2",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal 20 De Julio",
+        "Country Sur",
+        "Avenida 1° De Mayo",
+        "Ciudad Jardín - Uan",
+        "Policarpa",
+        "San Bernardo",
+        "Bicentenario",
+        "San Victorino",
+        "Las Nieves",
+        "San Diego",
+        "Museo Nacional - Fondo Nacional De Garantías"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ruta 3",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Corferias",
+        "Ciudad Universitaria - Lotería De Bogotá",
+        "Concejo De Bogotá",
+        "Centro Memoria",
+        "Calle 22",
+        "Calle 19",
+        "Avenida Jiménez",
+        "Tercer Milenio",
+        "Hospital",
+        "Hortua",
+        "Nariño",
+        "Fucha",
+        "Restrepo",
+        "Olaya",
+        "Quiroga",
+        "Calle 40 Sur",
+        "Santa Lucía",
+        "Biblioteca",
+        "Parque",
+        "Portal Del Tunal"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Ruta 4",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal Del Sur - JFK Cooperativa Financiera",
+        "Perdomo",
+        "C.C. Paseo Villa Del Río - Madelena",
+        "Sevillana",
+        "Venecia",
+        "Alquería",
+        "General Santander",
+        "NQS - Calle 38a Sur",
+        "NQS - Calle 30 Sur",
+        "Santa Isabel",
+        "Comuneros",
+        "Ricaurte",
+        "Paloquemao",
+        "Cad",
+        "Avenida El Dorado",
+        "Universidad Nacional",
+        "Campín - Uan",
+        "Movistar Arena",
+        "7 De Agosto",
+        "Avenida Chile",
+        "NQS Calle 75 - Zona M",
+        "Escuela Militar",
+        "Polo - Fincomercio",
+        "Héroes"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Ruta 5",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:00",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:00",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Portal De Las Américas",
+        "Biblioteca Tintal",
+        "Transversal 86",
+        "Banderas",
+        "Mandalay",
+        "Avenida Américas - Avenida Boyacá",
+        "Marsella",
+        "Pradera - Plaza Central",
+        "Distrito Grafiti",
+        "Puente Aranda",
+        "Carrera 43 - Comapan",
+        "Zona Industrial",
+        "Cds - Carrera 32",
+        "Ricaurte",
+        "San Façon - Carrera 22",
+        "De La Sabana",
+        "Avenida Jiménez",
+        "Calle 19",
+        "Calle 22"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ruta 6",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Universidades - City U",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Avenida 39",
+        "Calle 45 - American School Way",
+        "Calle 57",
+        "Flores - Areandina",
+        "Calle 76 - San Felipe",
+        "Polo - Fincomercio",
+        "Escuela Militar",
+        "Carrera 47",
+        "Carrera 53",
+        "Avenida 68",
+        "Ferias",
+        "Boyacá",
+        "Minuto De Dios",
+        "Granja - Carrera 77",
+        "Avenida Cali",
+        "Carrera 90",
+        "Quirigua",
+        "Portal De La 80"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ruta 7",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Polo - Fincomercio",
+        "Escuela Militar",
+        "San Martín",
+        "Rionegro",
+        "Suba - Calle 95",
+        "Suba - Calle 100",
+        "Puentelargo",
+        "Avenida Suba - Calle 116",
+        "Humedal Córdoba",
+        "Niza - Calle 127",
+        "Suba - Avenida Boyacá",
+        "Gratamira",
+        "21 Ángeles",
+        "Suba - Transversal 91",
+        "La Campiña",
+        "Portal De Suba"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Ruta 8",
+      "schedule": [
+        {
+          "dia": "monday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "tuesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "wednesday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "thursday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "friday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "saturday",
+          "start_time": "04:30",
+          "end_time": "23:00"
+        },
+        {
+          "dia": "sunday",
+          "start_time": "04:30",
+          "end_time": "22:00"
+        }
+      ],
+      "estaciones": [
+        "Terminal",
+        "Calle 187",
+        "Portal Del Norte",
+        "Toberín - Foundever (Lado Norte)",
+        "Calle 161 (Lado Norte)",
+        "Mazurén (Lado Norte)",
+        "Calle 146",
+        "Calle 142 (Lado Sur)",
+        "Alcalá - Col. S Tomás Dominicos",
+        "Prado",
+        "Calle 127",
+        "Pepe Sierra",
+        "Calle 106",
+        "Calle 100 - Marketmedios",
+        "Virrey",
+        "Calle 85 - Gato Dumas",
+        "Héroes",
+        "Calle 76 - San Felipe",
+        "Calle 72",
+        "Flores - Areandina",
+        "Calle 57",
+        "Calle 45 - American School Way",
+        "Avenida 39",
+        "Calle 34 - Fondo Nacional De Garantías",
+        "Calle 22",
+        "Calle 19",
+        "Avenida Jiménez",
+        "Tercer Milenio",
+        "Tygua - San José",
+        "Guatoque - Veraguas"
+      ]
+    }
+  ]
+}

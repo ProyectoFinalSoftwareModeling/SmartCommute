@@ -19,7 +19,9 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
+import json
 from pydantic import BaseModel
+from environment_variables import EnvironmentVariables # pylint: disable=import-error
 
 class RouteDAO(BaseModel):
     """
@@ -40,3 +42,26 @@ class RouteRepository:
 
     def __init__(self):
         """This method is used to initialize the class."""
+        env = EnvironmentVariables()
+        path_file = env.path_routes_data
+        self._load_data(path_file)
+
+    def _load_data(self, path_file: str):
+        """This method is used to load routes data from a file."""
+        try:
+            with open(path_file, "r", encoding="utf-8") as f:
+                self.data = json.load(f)
+        except FileNotFoundError as e:
+            print(f"Error loading routes data: {e}")
+            self.data = []
+    
+    def get_routes(self) -> list[RouteDAO]:
+        """This method is used to get all routes."""
+        routes = []
+        for route in self.data:
+            route_temp = RouteDAO(
+                id=route["id"],
+                name=route["name"],
+                schedule=route["schedule"],
+                stations=route["stations"]
+            )

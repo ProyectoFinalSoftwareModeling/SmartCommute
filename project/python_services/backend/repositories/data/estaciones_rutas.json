@@ -1,0 +1,2869 @@
+{
+  "estaciones": [
+    {
+      "id": "21_angeles",
+      "nombre": "21 Ángeles",
+      "rutas": [
+        "7",
+        "B50",
+        "C19",
+        "C25",
+        "C50",
+        "C84",
+        "F19",
+        "L25",
+        "M84"
+      ]
+    },
+    {
+      "id": "7_de_agosto",
+      "nombre": "7 De Agosto",
+      "rutas": [
+        "4",
+        "B12",
+        "C17",
+        "D21",
+        "E32",
+        "E42",
+        "F32",
+        "G12",
+        "G42",
+        "H17",
+        "H21"
+      ]
+    },
+    {
+      "id": "aeronautica_civil_(ac_26___kr_103)",
+      "nombre": "Aeronáutica Civil (Ac 26 - Kr 103)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "aeropuerto_eldorado_(b)",
+      "nombre": "Aeropuerto Eldorado (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "alcaldia_local_de_chapinero_(ak_13___cl_55)",
+      "nombre": "Alcaldía Local De Chapinero (Ak 13 - Cl 55)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "alcala___col._s_tomas_dominicos",
+      "nombre": "Alcalá - Col. S Tomás Dominicos",
+      "rutas": [
+        "8",
+        "B10",
+        "B16",
+        "B18",
+        "B23",
+        "B26",
+        "B46",
+        "B72",
+        "D10",
+        "F26",
+        "G46",
+        "H72",
+        "H73",
+        "J70",
+        "K16",
+        "K23",
+        "K54",
+        "L18"
+      ]
+    },
+    {
+      "id": "alqueria",
+      "nombre": "Alquería",
+      "rutas": [
+        "4",
+        "A52",
+        "B11",
+        "G11",
+        "G41",
+        "G52",
+        "L41"
+      ]
+    },
+    {
+      "id": "avenida_1_de_mayo",
+      "nombre": "Avenida 1° De Mayo",
+      "rutas": [
+        "2",
+        "B18",
+        "C25",
+        "D81",
+        "H83",
+        "K10",
+        "L10",
+        "L18",
+        "L25",
+        "L81",
+        "L82",
+        "M82",
+        "M83"
+      ]
+    },
+    {
+      "id": "avenida_39",
+      "nombre": "Avenida 39",
+      "rutas": [
+        "6",
+        "8",
+        "A61",
+        "B13",
+        "B74",
+        "B75",
+        "C19",
+        "D24",
+        "F19",
+        "F61",
+        "H13",
+        "H73",
+        "H75",
+        "J24",
+        "J74"
+      ]
+    },
+    {
+      "id": "avenida_68",
+      "nombre": "Avenida 68",
+      "rutas": [
+        "6",
+        "B10",
+        "D10",
+        "D20",
+        "D21",
+        "D22",
+        "D81",
+        "G22",
+        "H20",
+        "H21",
+        "L81"
+      ]
+    },
+    {
+      "id": "avenida_americas___avenida_boyaca",
+      "nombre": "Avenida Américas - Avenida Boyacá",
+      "rutas": [
+        "5",
+        "B26",
+        "E32",
+        "F23",
+        "F26",
+        "F32",
+        "F51",
+        "J23",
+        "M51"
+      ]
+    },
+    {
+      "id": "avenida_cali",
+      "nombre": "Avenida Cali",
+      "rutas": [
+        "6",
+        "B10",
+        "B55",
+        "D10",
+        "D21",
+        "D24",
+        "D55",
+        "H21",
+        "J24"
+      ]
+    },
+    {
+      "id": "avenida_carrera_11_(cl_76___ak_11)_(a)",
+      "nombre": "Avenida Carrera 11 (Cl 76 - Ak 11) (A)",
+      "rutas": [
+        "C84"
+      ]
+    },
+    {
+      "id": "avenida_carrera_11_(cl_76___ak_11)_(b)",
+      "nombre": "Avenida Carrera 11 (Cl 76 - Ak 11) (B)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "avenida_chile",
+      "nombre": "Avenida Chile",
+      "rutas": [
+        "4",
+        "B16",
+        "B72",
+        "C25",
+        "D22",
+        "E32",
+        "F32",
+        "G22",
+        "H72",
+        "K16",
+        "K54",
+        "L25"
+      ]
+    },
+    {
+      "id": "avenida_chile_(ak_7___cl_70a)_(a)",
+      "nombre": "Avenida Chile (Ak 7 - Cl 70a) (A)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "avenida_chile_(ak_7___cl_70a)_(b)",
+      "nombre": "Avenida Chile (Ak 7 - Cl 70a) (B)",
+      "rutas": [
+        "M86"
+      ]
+    },
+    {
+      "id": "avenida_chile_(ak_7___cl_71)_(a)",
+      "nombre": "Avenida Chile (Ak 7 - Cl 71) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "avenida_chile_(ak_7___cl_71)_(b)",
+      "nombre": "Avenida Chile (Ak 7 - Cl 71) (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "avenida_el_dorado",
+      "nombre": "Avenida El Dorado",
+      "rutas": [
+        "4",
+        "B12",
+        "B16",
+        "C17",
+        "D22",
+        "E32",
+        "F32",
+        "G12",
+        "G22",
+        "H17",
+        "K16",
+        "K54"
+      ]
+    },
+    {
+      "id": "avenida_jimenez",
+      "nombre": "Avenida Jiménez",
+      "rutas": [
+        "3",
+        "5",
+        "8",
+        "B27",
+        "B75",
+        "C15",
+        "D20",
+        "F23",
+        "H15",
+        "H20",
+        "H27",
+        "H75",
+        "H76",
+        "J23",
+        "J70",
+        "J76",
+        "K10",
+        "L10"
+      ]
+    },
+    {
+      "id": "avenida_rojas___unisalesiana",
+      "nombre": "Avenida Rojas - Unisalesiana",
+      "rutas": [
+        "1",
+        "B16",
+        "B23",
+        "H54",
+        "K16",
+        "K23",
+        "K54",
+        "K86",
+        "M86"
+      ]
+    },
+    {
+      "id": "avenida_suba___calle_116",
+      "nombre": "Avenida Suba - Calle 116",
+      "rutas": [
+        "7",
+        "B50",
+        "C15",
+        "C17",
+        "C30",
+        "C50",
+        "G30",
+        "H15",
+        "H17"
+      ]
+    },
+    {
+      "id": "banderas",
+      "nombre": "Banderas",
+      "rutas": [
+        "5",
+        "A60",
+        "A61",
+        "B26",
+        "B28",
+        "C19",
+        "E32",
+        "F19",
+        "F23",
+        "F26",
+        "F28",
+        "F32",
+        "F51",
+        "F60",
+        "F61",
+        "J23",
+        "M51"
+      ]
+    },
+    {
+      "id": "biblioteca",
+      "nombre": "Biblioteca",
+      "rutas": [
+        "3",
+        "B13",
+        "H13"
+      ]
+    },
+    {
+      "id": "biblioteca_tintal",
+      "nombre": "Biblioteca Tintal",
+      "rutas": [
+        "5",
+        "A61",
+        "B26",
+        "B28",
+        "F23",
+        "F26",
+        "F28",
+        "F51",
+        "F61",
+        "J23",
+        "M51"
+      ]
+    },
+    {
+      "id": "bicentenario",
+      "nombre": "Bicentenario",
+      "rutas": [
+        "2",
+        "B18",
+        "C25",
+        "D81",
+        "G41",
+        "H83",
+        "K10",
+        "L10",
+        "L18",
+        "L25",
+        "L41",
+        "L81",
+        "L82",
+        "M82",
+        "M83"
+      ]
+    },
+    {
+      "id": "bosa",
+      "nombre": "Bosa",
+      "rutas": [
+        "B46",
+        "E42",
+        "G41",
+        "G42",
+        "G45",
+        "G46",
+        "L41"
+      ]
+    },
+    {
+      "id": "boyaca",
+      "nombre": "Boyacá",
+      "rutas": [
+        "6",
+        "B10",
+        "D10",
+        "D20",
+        "D22",
+        "G22",
+        "H20"
+      ]
+    },
+    {
+      "id": "br._antiguo_country_(ac_85___kr_16a)",
+      "nombre": "Br. Antiguo Country (Ac 85 - Kr 16a)",
+      "rutas": [
+        "M84"
+      ]
+    },
+    {
+      "id": "br._bella_suiza_(ak_7___cl_127b)",
+      "nombre": "Br. Bella Suiza (Ak 7 - Cl 127b)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._bellavista_(ak_7___cl_73)",
+      "nombre": "Br. Bellavista (Ak 7 - Cl 73)",
+      "rutas": [
+        "C84",
+        "D81",
+        "M84"
+      ]
+    },
+    {
+      "id": "br._bolivia_occidental_(ac_80___kr_107)",
+      "nombre": "Br. Bolivia Occidental (Ac 80 - Kr 107)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "br._bosque_calderon_(ak_7___cl_57)",
+      "nombre": "Br. Bosque Calderón (Ak 7 - Cl 57)",
+      "rutas": [
+        "D81",
+        "M86"
+      ]
+    },
+    {
+      "id": "br._chapinero_central_(ak_7___cl_60)_(a)",
+      "nombre": "Br. Chapinero Central (Ak 7 - Cl 60) (A)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "br._chapinero_central_(ak_7___cl_61)_(b)",
+      "nombre": "Br. Chapinero Central (Ak 7 - Cl 61) (B)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._chapinero_norte_(ak_13___cl_66)",
+      "nombre": "Br. Chapinero Norte (Ak 13 - Cl 66)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._chapinero_norte_(ak_7___cl_66)_(a)",
+      "nombre": "Br. Chapinero Norte (Ak 7 - Cl 66) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._chapinero_norte_(ak_7___cl_66)_(b)",
+      "nombre": "Br. Chapinero Norte (Ak 7 - Cl 66) (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "br._chico_oriental_(ak_7___cl_92)",
+      "nombre": "Br. Chicó Oriental (Ak 7 - Cl 92)",
+      "rutas": [
+        "M82",
+        "M86"
+      ]
+    },
+    {
+      "id": "br._chico_reservado_(ak_7___cl_97a)",
+      "nombre": "Br. Chicó Reservado (Ak 7 - Cl 97a)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._ciudadela_colsubsidio_(ac_80___kr_111c)",
+      "nombre": "Br. Ciudadela Colsubsidio (Ac 80 - Kr 111c)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "br._el_chico_(ak_7___cl_90)",
+      "nombre": "Br. El Chicó (Ak 7 - Cl 90)",
+      "rutas": [
+        "K86",
+        "L82"
+      ]
+    },
+    {
+      "id": "br._el_cortijo_(ac_80___kr_114)",
+      "nombre": "Br. El Cortijo (Ac 80 - Kr 114)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "br._el_cortijo_(ac_80___kr_114)_(a)",
+      "nombre": "Br. El Cortijo (Ac 80 - Kr 114) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._el_nogal_(ak_7___cl_79)",
+      "nombre": "Br. El Nogal (Ak 7 - Cl 79)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._el_refugio_(ak_7___cl_87)",
+      "nombre": "Br. El Refugio (Ak 7 - Cl 87)",
+      "rutas": [
+        "M86"
+      ]
+    },
+    {
+      "id": "br._espartillal_(kr_11___cl_78)",
+      "nombre": "Br. Espartillal (Kr 11 - Cl 78)",
+      "rutas": [
+        "L81",
+        "M84"
+      ]
+    },
+    {
+      "id": "br._garces_navas_(ac_80___kr_109a)",
+      "nombre": "Br. Garcés Navas (Ac 80 - Kr 109a)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "br._garces_navas_(ac_80___kr_110)",
+      "nombre": "Br. Garcés Navas (Ac 80 - Kr 110)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._garces_navas_occidental_(ac_80___tv_106)",
+      "nombre": "Br. Garcés Navas Occidental (Ac 80 - Tv 106)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._ginebra_(ak_7___cl_130b)",
+      "nombre": "Br. Ginebra (Ak 7 - Cl 130b)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._ginebra_norte_(ak_7___cl_132)",
+      "nombre": "Br. Ginebra Norte (Ak 7 - Cl 132)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._la_cabrera_(ak_7___cl_86)",
+      "nombre": "Br. La Cabrera (Ak 7 - Cl 86)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "br._la_porciuncula_(ak_7___cl_74)_(a)",
+      "nombre": "Br. La Porciúncula (Ak 7 - Cl 74) (A)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._la_porciuncula_(ak_7___cl_74)_(b)",
+      "nombre": "Br. La Porciúncula (Ak 7 - Cl 74) (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "br._lombardia_(av._suba___kr_110)_(b)",
+      "nombre": "Br. Lombardía (Av. Suba - Kr 110) (B)",
+      "rutas": [
+        "M84"
+      ]
+    },
+    {
+      "id": "br._lombardia_ii_(av._suba___kr_110a)_(b)",
+      "nombre": "Br. Lombardía II (Av. Suba - Kr 110a) (B)",
+      "rutas": [
+        "C84"
+      ]
+    },
+    {
+      "id": "br._los_rosales_(ak_7___cl_78)",
+      "nombre": "Br. Los Rosales (Ak 7 - Cl 78)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._sagrado_corazon_(ak_13___cl_37)",
+      "nombre": "Br. Sagrado Corazón (Ak 13 - Cl 37)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._samper_(ak_7___cl_33)",
+      "nombre": "Br. Samper (Ak 7 - Cl 33)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "br._san_gabriel_norte_(ak_7___cl_124)",
+      "nombre": "Br. San Gabriel Norte (Ak 7 - Cl 124)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._santa_ana_(ak_7___cl_110a)",
+      "nombre": "Br. Santa Ana (Ak 7 - Cl 110a)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._santa_ana_occidental_(ak_7___cl_110)",
+      "nombre": "Br. Santa Ana Occidental (Ak 7 - Cl 110)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._santa_barbara_oriental_(ak_7___cl_124)",
+      "nombre": "Br. Santa Bárbara Oriental (Ak 7 - Cl 124)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "br._unicerros_(ak_7___cl_127b)",
+      "nombre": "Br. Unicerros (Ak 7 - Cl 127b)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._usaquen_(ak_7___cl_119b)",
+      "nombre": "Br. Usaquén (Ak 7 - Cl 119b)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "br._villas_de_granada_(ac_80___kr_112_bis)_(a)",
+      "nombre": "Br. Villas De Granada (Ac 80 - Kr 112 Bis) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "c.c._paseo_villa_del_rio___madelena",
+      "nombre": "C.C. Paseo Villa Del Río - Madelena",
+      "rutas": [
+        "4",
+        "A52",
+        "B11",
+        "G11",
+        "G47",
+        "G52",
+        "M47"
+      ]
+    },
+    {
+      "id": "cac_(ac_26___kr_106)",
+      "nombre": "Cac (Ac 26 - Kr 106)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "cad",
+      "nombre": "Cad",
+      "rutas": [
+        "4",
+        "C30",
+        "E32",
+        "F32",
+        "G30",
+        "G43",
+        "J70",
+        "K43"
+      ]
+    },
+    {
+      "id": "calle_100___marketmedios",
+      "nombre": "Calle 100 - Marketmedios",
+      "rutas": [
+        "8",
+        "B10",
+        "B12",
+        "B26",
+        "B27",
+        "B46",
+        "B75",
+        "D10",
+        "F26",
+        "G12",
+        "G46",
+        "H27",
+        "H75"
+      ]
+    },
+    {
+      "id": "calle_106",
+      "nombre": "Calle 106",
+      "rutas": [
+        "8",
+        "B11",
+        "B13",
+        "B28",
+        "B55",
+        "D55",
+        "F28",
+        "G11",
+        "H13"
+      ]
+    },
+    {
+      "id": "calle_116_(ak_7___cl_116)_(a)",
+      "nombre": "Calle 116 (Ak 7 - Cl 116) (A)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "calle_116_(ak_7___cl_116)_(b)",
+      "nombre": "Calle 116 (Ak 7 - Cl 116) (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "calle_127",
+      "nombre": "Calle 127",
+      "rutas": [
+        "8",
+        "B12",
+        "B18",
+        "B23",
+        "B26",
+        "B74",
+        "F26",
+        "G12",
+        "H73",
+        "J70",
+        "J74",
+        "K23",
+        "L18"
+      ]
+    },
+    {
+      "id": "calle_142_(lado_sur)",
+      "nombre": "Calle 142 (Lado Sur)",
+      "rutas": [
+        "8",
+        "B12",
+        "B50",
+        "B55",
+        "B74",
+        "B75",
+        "C50",
+        "D55",
+        "G12",
+        "H13",
+        "H75",
+        "J70",
+        "J74"
+      ]
+    },
+    {
+      "id": "calle_145_(lado_sur)",
+      "nombre": "Calle 145 (Lado Sur)",
+      "rutas": [
+        "B13"
+      ]
+    },
+    {
+      "id": "calle_146",
+      "nombre": "Calle 146",
+      "rutas": [
+        "B75",
+        "D10",
+        "J70"
+      ]
+    },
+    {
+      "id": "calle_161_(lado_norte)",
+      "nombre": "Calle 161 (Lado Norte)",
+      "rutas": [
+        "8",
+        "B13",
+        "B28",
+        "B50",
+        "B55",
+        "C50",
+        "D55",
+        "F28",
+        "H13"
+      ]
+    },
+    {
+      "id": "calle_187",
+      "nombre": "Calle 187",
+      "rutas": [
+        "8",
+        "B11",
+        "B16",
+        "B18",
+        "G11",
+        "K16",
+        "K54",
+        "L18"
+      ]
+    },
+    {
+      "id": "calle_19",
+      "nombre": "Calle 19",
+      "rutas": [
+        "3",
+        "5",
+        "8",
+        "A61",
+        "B74",
+        "C15",
+        "C19",
+        "D20",
+        "F19",
+        "F61",
+        "H15",
+        "H20",
+        "H73",
+        "H76",
+        "J74",
+        "J76"
+      ]
+    },
+    {
+      "id": "calle_22",
+      "nombre": "Calle 22",
+      "rutas": [
+        "3",
+        "5",
+        "8",
+        "B13",
+        "C15",
+        "H13",
+        "H15",
+        "K10",
+        "L10"
+      ]
+    },
+    {
+      "id": "calle_34___fondo_nacional_de_garantias",
+      "nombre": "Calle 34 - Fondo Nacional De Garantías",
+      "rutas": [
+        "6",
+        "8",
+        "A60",
+        "B18",
+        "B23",
+        "B27",
+        "C19",
+        "D20",
+        "F19",
+        "F60",
+        "H20",
+        "H27",
+        "H73",
+        "K23",
+        "L18"
+      ]
+    },
+    {
+      "id": "calle_40_sur",
+      "nombre": "Calle 40 Sur",
+      "rutas": [
+        "3",
+        "B13",
+        "B27",
+        "C15",
+        "D20",
+        "D21",
+        "H13",
+        "H15",
+        "H20",
+        "H21",
+        "H27",
+        "H54",
+        "H73",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "calle_45_(ak_7___ac_45)",
+      "nombre": "Calle 45 (Ak 7 - Ac 45)",
+      "rutas": [
+        "D81",
+        "L81"
+      ]
+    },
+    {
+      "id": "calle_45___american_school_way",
+      "nombre": "Calle 45 - American School Way",
+      "rutas": [
+        "6",
+        "8",
+        "A60",
+        "B18",
+        "B23",
+        "B74",
+        "C15",
+        "D20",
+        "F60",
+        "H15",
+        "H20",
+        "H73",
+        "J74",
+        "K23",
+        "L18"
+      ]
+    },
+    {
+      "id": "calle_57",
+      "nombre": "Calle 57",
+      "rutas": [
+        "6",
+        "8",
+        "A61",
+        "B23",
+        "B74",
+        "B75",
+        "C15",
+        "D24",
+        "F61",
+        "H15",
+        "H75",
+        "J24",
+        "J74",
+        "K23"
+      ]
+    },
+    {
+      "id": "calle_67_(ak_7___cl_66)",
+      "nombre": "Calle 67 (Ak 7 - Cl 66)",
+      "rutas": [
+        "D81",
+        "M86"
+      ]
+    },
+    {
+      "id": "calle_72",
+      "nombre": "Calle 72",
+      "rutas": [
+        "A61"
+      ]
+    },
+    {
+      "id": "calle_76___san_felipe",
+      "nombre": "Calle 76 - San Felipe",
+      "rutas": [
+        "6",
+        "8",
+        "A52",
+        "A60",
+        "B13",
+        "B18",
+        "B75",
+        "C15",
+        "D24",
+        "F60",
+        "G52",
+        "H13",
+        "H15",
+        "H75",
+        "J24",
+        "L18"
+      ]
+    },
+    {
+      "id": "calle_82_(ak_7___cl_81)",
+      "nombre": "Calle 82 (Ak 7 - Cl 81)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "calle_82_(ak_7___cl_82)",
+      "nombre": "Calle 82 (Ak 7 - Cl 82)",
+      "rutas": [
+        "M86"
+      ]
+    },
+    {
+      "id": "calle_85___gato_dumas",
+      "nombre": "Calle 85 - Gato Dumas",
+      "rutas": [
+        "8",
+        "B10",
+        "B11",
+        "B13",
+        "B23",
+        "B26",
+        "B27",
+        "B50",
+        "C50",
+        "D10",
+        "F26",
+        "G11",
+        "H13",
+        "H27",
+        "K23"
+      ]
+    },
+    {
+      "id": "calle_94_(ak_7___cl_94)",
+      "nombre": "Calle 94 (Ak 7 - Cl 94)",
+      "rutas": [
+        "M82",
+        "M86"
+      ]
+    },
+    {
+      "id": "campin___uan",
+      "nombre": "Campín - Uan",
+      "rutas": [
+        "4",
+        "B11",
+        "C25",
+        "D21",
+        "E42",
+        "G11",
+        "G42",
+        "H21",
+        "L25"
+      ]
+    },
+    {
+      "id": "can___british_council",
+      "nombre": "Can - British Council",
+      "rutas": [
+        "1",
+        "B16",
+        "B23",
+        "H54",
+        "K10",
+        "K16",
+        "K23",
+        "K54",
+        "K86",
+        "L10",
+        "M86"
+      ]
+    },
+    {
+      "id": "canton_norte_(ak_7___cl_106)",
+      "nombre": "Cantón Norte (Ak 7 - Cl 106)",
+      "rutas": [
+        "M82"
+      ]
+    },
+    {
+      "id": "car_cundinamarca_(ak_7___cl_36)",
+      "nombre": "Car Cundinamarca (Ak 7 - Cl 36)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "carrera_43___comapan",
+      "nombre": "Carrera 43 - Comapan",
+      "rutas": [
+        "5",
+        "A60",
+        "F60"
+      ]
+    },
+    {
+      "id": "carrera_47",
+      "nombre": "Carrera 47",
+      "rutas": [
+        "6",
+        "B10",
+        "D10",
+        "D22",
+        "D24",
+        "D81",
+        "G22",
+        "J24",
+        "L81"
+      ]
+    },
+    {
+      "id": "carrera_53",
+      "nombre": "Carrera 53",
+      "rutas": [
+        "6",
+        "B10",
+        "D10"
+      ]
+    },
+    {
+      "id": "carrera_90",
+      "nombre": "Carrera 90",
+      "rutas": [
+        "6",
+        "B10",
+        "D10",
+        "D21",
+        "D24",
+        "H21",
+        "J24"
+      ]
+    },
+    {
+      "id": "cds___carrera_32",
+      "nombre": "Cds - Carrera 32",
+      "rutas": [
+        "5",
+        "A61",
+        "B28",
+        "F28",
+        "F61"
+      ]
+    },
+    {
+      "id": "centro_comercial_la_cabrera_(ac_85___ak_11)",
+      "nombre": "Centro Comercial La Cabrera (Ac 85 - Ak 11)",
+      "rutas": [
+        "M84"
+      ]
+    },
+    {
+      "id": "centro_memoria",
+      "nombre": "Centro Memoria",
+      "rutas": [
+        "1",
+        "3",
+        "C73",
+        "J73",
+        "K10",
+        "L10"
+      ]
+    },
+    {
+      "id": "ciac_(ac_26___kr_103)",
+      "nombre": "Ciac (Ac 26 - Kr 103)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "ciudad_jardin___uan",
+      "nombre": "Ciudad Jardín - Uan",
+      "rutas": [
+        "2",
+        "K10",
+        "L10"
+      ]
+    },
+    {
+      "id": "ciudad_universitaria___loteria_de_bogota",
+      "nombre": "Ciudad Universitaria - Lotería De Bogotá",
+      "rutas": [
+        "1",
+        "3",
+        "B23",
+        "C73",
+        "H54",
+        "J73",
+        "K10",
+        "K23",
+        "L10"
+      ]
+    },
+    {
+      "id": "clinica_de_traumatologia_y_ortopedia_(ak_11___cl_70a)_(a)",
+      "nombre": "Clínica De Traumatología Y Ortopedia (Ak 11 - Cl 70a) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "clinica_el_bosque_(ac_134___ak_7)",
+      "nombre": "Clínica El Bosque (Ac 134 - Ak 7)",
+      "rutas": [
+        "L82",
+        "M82"
+      ]
+    },
+    {
+      "id": "comuneros",
+      "nombre": "Comuneros",
+      "rutas": [
+        "4",
+        "B12",
+        "E42",
+        "G12",
+        "G42",
+        "G47",
+        "M47"
+      ]
+    },
+    {
+      "id": "concejo_de_bogota",
+      "nombre": "Concejo De Bogotá",
+      "rutas": [
+        "1",
+        "3",
+        "B23",
+        "H54",
+        "K23",
+        "K86",
+        "M86"
+      ]
+    },
+    {
+      "id": "consuelo",
+      "nombre": "Consuelo",
+      "rutas": [
+        "B75",
+        "C17",
+        "H17",
+        "H75",
+        "H76",
+        "H83",
+        "J76",
+        "M83"
+      ]
+    },
+    {
+      "id": "corferias",
+      "nombre": "Corferias",
+      "rutas": [
+        "1",
+        "3",
+        "B16",
+        "G43",
+        "H54",
+        "K16",
+        "K43",
+        "K54",
+        "K86",
+        "M86"
+      ]
+    },
+    {
+      "id": "country_sur",
+      "nombre": "Country Sur",
+      "rutas": [
+        "2",
+        "B18",
+        "C25",
+        "D81",
+        "L18",
+        "L25",
+        "L81",
+        "L82",
+        "M82"
+      ]
+    },
+    {
+      "id": "cuerpo_oficial_de_bomberos_de_bogota_(ak_13___cl_60_bis)_(a)",
+      "nombre": "Cuerpo Oficial De Bomberos De Bogotá (Ak 13 - Cl 60 Bis) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "danubio",
+      "nombre": "Danubio",
+      "rutas": [
+        "B75",
+        "C17",
+        "H17",
+        "H54",
+        "H75",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "de_la_sabana",
+      "nombre": "De La Sabana",
+      "rutas": [
+        "5",
+        "A60",
+        "C19",
+        "F19",
+        "F60"
+      ]
+    },
+    {
+      "id": "distrito_grafiti",
+      "nombre": "Distrito Grafiti",
+      "rutas": [
+        "5",
+        "C19",
+        "F19",
+        "F51",
+        "M51"
+      ]
+    },
+    {
+      "id": "el_tiempo___camara_de_comercio_de_bogota",
+      "nombre": "El Tiempo - Cámara De Comercio De Bogotá",
+      "rutas": [
+        "1",
+        "B16",
+        "B23",
+        "G43",
+        "H54",
+        "K16",
+        "K23",
+        "K43",
+        "K54",
+        "K86",
+        "M86"
+      ]
+    },
+    {
+      "id": "escuela_caballeria_(ak_7___cl_100)",
+      "nombre": "Escuela Caballería (Ak 7 - Cl 100)",
+      "rutas": [
+        "M82",
+        "M86"
+      ]
+    },
+    {
+      "id": "escuela_de_artilleria_no._13_(av._caracas___tv_5d)",
+      "nombre": "Escuela De Artillería No. 13 (Av. Caracas - Tv 5d)",
+      "rutas": [
+        "H83",
+        "M83"
+      ]
+    },
+    {
+      "id": "escuela_de_caballeria_(ak_7___cl_101)",
+      "nombre": "Escuela De Caballería (Ak 7 - Cl 101)",
+      "rutas": [
+        "K86",
+        "L82"
+      ]
+    },
+    {
+      "id": "escuela_militar",
+      "nombre": "Escuela Militar",
+      "rutas": [
+        "4",
+        "6",
+        "7",
+        "B11",
+        "B50",
+        "C50",
+        "D24",
+        "G11",
+        "J24"
+      ]
+    },
+    {
+      "id": "etb_tibabuyes_(av._suba___kr_114d)_(b)",
+      "nombre": "Etb Tibabuyes (Av. Suba - Kr 114d) (B)",
+      "rutas": [
+        "C84",
+        "M84"
+      ]
+    },
+    {
+      "id": "ferias",
+      "nombre": "Ferias",
+      "rutas": [
+        "6",
+        "B55",
+        "D20",
+        "D55",
+        "H20"
+      ]
+    },
+    {
+      "id": "flores___areandina",
+      "nombre": "Flores - Areandina",
+      "rutas": [
+        "6",
+        "8",
+        "A52",
+        "A61",
+        "B13",
+        "C19",
+        "D20",
+        "F19",
+        "F61",
+        "G52",
+        "H13",
+        "H20"
+      ]
+    },
+    {
+      "id": "fucha",
+      "nombre": "Fucha",
+      "rutas": [
+        "3",
+        "B72",
+        "B75",
+        "D21",
+        "H21",
+        "H72",
+        "H73",
+        "H75"
+      ]
+    },
+    {
+      "id": "fundacion_santa_fe_(ak_7___cl_118)_(a)",
+      "nombre": "Fundación Santa Fe (Ak 7 - Cl 118) (A)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "fundacion_santa_fe_(ak_7___cl_118)_(b)",
+      "nombre": "Fundación Santa Fe (Ak 7 - Cl 118) (B)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "general_santander",
+      "nombre": "General Santander",
+      "rutas": [
+        "4",
+        "A52",
+        "B12",
+        "C30",
+        "D22",
+        "G12",
+        "G22",
+        "G30",
+        "G43",
+        "G52",
+        "K43"
+      ]
+    },
+    {
+      "id": "gobernacion",
+      "nombre": "Gobernación",
+      "rutas": [
+        "1",
+        "B23",
+        "G43",
+        "K10",
+        "K23",
+        "K43",
+        "K86",
+        "L10",
+        "M86"
+      ]
+    },
+    {
+      "id": "granja___carrera_77",
+      "nombre": "Granja - Carrera 77",
+      "rutas": [
+        "6",
+        "B10",
+        "B55",
+        "D10",
+        "D20",
+        "D21",
+        "D22",
+        "D24",
+        "D55",
+        "G22",
+        "H20",
+        "H21",
+        "J24"
+      ]
+    },
+    {
+      "id": "gratamira",
+      "nombre": "Gratamira",
+      "rutas": [
+        "7",
+        "C15",
+        "H15"
+      ]
+    },
+    {
+      "id": "guatoque___veraguas",
+      "nombre": "Guatoque - Veraguas",
+      "rutas": [
+        "8",
+        "C17",
+        "C25",
+        "D21",
+        "G41",
+        "G47",
+        "H17",
+        "H21",
+        "L25",
+        "L41",
+        "M47"
+      ]
+    },
+    {
+      "id": "hacienda_santa_barbara_(ak_7___cl_114)",
+      "nombre": "Hacienda Santa Bárbara (Ak 7 - Cl 114)",
+      "rutas": [
+        "M82",
+        "M86"
+      ]
+    },
+    {
+      "id": "hortua",
+      "nombre": "Hortua",
+      "rutas": [
+        "3",
+        "B13",
+        "B75",
+        "C17",
+        "H13",
+        "H17",
+        "H54",
+        "H75"
+      ]
+    },
+    {
+      "id": "hospital",
+      "nombre": "Hospital",
+      "rutas": [
+        "3",
+        "B72",
+        "H72"
+      ]
+    },
+    {
+      "id": "hospital_militar_(ak_7___cl_50)",
+      "nombre": "Hospital Militar (Ak 7 - Cl 50)",
+      "rutas": [
+        "D81",
+        "M86"
+      ]
+    },
+    {
+      "id": "humedal_cordoba",
+      "nombre": "Humedal Córdoba",
+      "rutas": [
+        "7",
+        "C15",
+        "H15"
+      ]
+    },
+    {
+      "id": "heroes",
+      "nombre": "Héroes",
+      "rutas": [
+        "4",
+        "8",
+        "B11",
+        "B26",
+        "B27",
+        "B50",
+        "B55",
+        "B74",
+        "B75",
+        "C50",
+        "D55",
+        "F26",
+        "G11",
+        "H27",
+        "H75",
+        "J74"
+      ]
+    },
+    {
+      "id": "la_campina",
+      "nombre": "La Campiña",
+      "rutas": [
+        "7",
+        "B50",
+        "C15",
+        "C17",
+        "C25",
+        "C50",
+        "H15",
+        "H17",
+        "L25"
+      ]
+    },
+    {
+      "id": "la_castellana",
+      "nombre": "La Castellana",
+      "rutas": [
+        "B12",
+        "B28",
+        "B72",
+        "F28",
+        "G12",
+        "H72"
+      ]
+    },
+    {
+      "id": "la_despensa",
+      "nombre": "La Despensa",
+      "rutas": [
+        "B46",
+        "E42",
+        "G42",
+        "G43",
+        "G45",
+        "G46",
+        "K43"
+      ]
+    },
+    {
+      "id": "ladrillera_santafe_(av._caracas___cl_65_sur)",
+      "nombre": "Ladrillera Santafé (Av. Caracas - Cl 65 Sur)",
+      "rutas": [
+        "H83"
+      ]
+    },
+    {
+      "id": "las_aguas___centro_colombo_americano",
+      "nombre": "Las Aguas - Centro Colombo Americano",
+      "rutas": [
+        "B74",
+        "F23",
+        "J23",
+        "J70",
+        "J74"
+      ]
+    },
+    {
+      "id": "las_nieves",
+      "nombre": "Las Nieves",
+      "rutas": [
+        "2",
+        "F51",
+        "G47",
+        "M47",
+        "M51"
+      ]
+    },
+    {
+      "id": "leon_xiii",
+      "nombre": "León XIII",
+      "rutas": [
+        "B46",
+        "E42",
+        "G42",
+        "G43",
+        "G45",
+        "G46",
+        "K43"
+      ]
+    },
+    {
+      "id": "mandalay",
+      "nombre": "Mandalay",
+      "rutas": [
+        "5",
+        "B26",
+        "C19",
+        "F19",
+        "F26",
+        "F51",
+        "M51"
+      ]
+    },
+    {
+      "id": "marsella",
+      "nombre": "Marsella",
+      "rutas": [
+        "5",
+        "A61",
+        "B28",
+        "C19",
+        "F19",
+        "F28",
+        "F51",
+        "F61",
+        "M51"
+      ]
+    },
+    {
+      "id": "mazuren_(lado_norte)",
+      "nombre": "Mazurén (Lado Norte)",
+      "rutas": [
+        "8",
+        "B13",
+        "B72",
+        "B74",
+        "H13",
+        "H72",
+        "J74",
+        "K16"
+      ]
+    },
+    {
+      "id": "minuto_de_dios",
+      "nombre": "Minuto De Dios",
+      "rutas": [
+        "6",
+        "B55",
+        "D21",
+        "D22",
+        "D24",
+        "D55",
+        "G22",
+        "H21",
+        "J24"
+      ]
+    },
+    {
+      "id": "modelia",
+      "nombre": "Modelia",
+      "rutas": [
+        "1",
+        "B16",
+        "G43",
+        "H54",
+        "K10",
+        "K16",
+        "K43",
+        "K54",
+        "L10"
+      ]
+    },
+    {
+      "id": "molinos",
+      "nombre": "Molinos",
+      "rutas": [
+        "B72",
+        "B75",
+        "D20",
+        "H20",
+        "H54",
+        "H72",
+        "H75",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "movistar_arena",
+      "nombre": "Movistar Arena",
+      "rutas": [
+        "4",
+        "B72",
+        "C25",
+        "C30",
+        "D21",
+        "G30",
+        "H21",
+        "H72",
+        "L25"
+      ]
+    },
+    {
+      "id": "museo_del_oro",
+      "nombre": "Museo Del Oro",
+      "rutas": [
+        "B74",
+        "F23",
+        "J23",
+        "J70",
+        "J74"
+      ]
+    },
+    {
+      "id": "museo_nacional___fondo_nacional_de_garantias",
+      "nombre": "Museo Nacional - Fondo Nacional De Garantías",
+      "rutas": [
+        "2",
+        "F51",
+        "G47",
+        "H83",
+        "K86",
+        "L81",
+        "M47",
+        "M51",
+        "M83",
+        "M86"
+      ]
+    },
+    {
+      "id": "museo_nacional___fondo_nacional_de_garantias_br._la_merced_(ak_7___cl_34)",
+      "nombre": "Museo Nacional - Fondo Nacional De Garantías Br. La Merced (Ak 7 - Cl 34)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "nqs___calle_30_sur",
+      "nombre": "NQS - Calle 30 Sur",
+      "rutas": [
+        "4",
+        "A52",
+        "B11",
+        "G11",
+        "G41",
+        "G52",
+        "L41"
+      ]
+    },
+    {
+      "id": "nqs___calle_38a_sur",
+      "nombre": "NQS - Calle 38a Sur",
+      "rutas": [
+        "4",
+        "C30",
+        "G30",
+        "G47",
+        "M47"
+      ]
+    },
+    {
+      "id": "nqs_calle_75___zona_m",
+      "nombre": "NQS Calle 75 - Zona M",
+      "rutas": [
+        "4",
+        "B12",
+        "C25",
+        "D22",
+        "E32",
+        "F32",
+        "G12",
+        "G22",
+        "L25"
+      ]
+    },
+    {
+      "id": "narino",
+      "nombre": "Nariño",
+      "rutas": [
+        "3",
+        "B72",
+        "B75",
+        "C15",
+        "H15",
+        "H72",
+        "H75"
+      ]
+    },
+    {
+      "id": "niza___calle_127",
+      "nombre": "Niza - Calle 127",
+      "rutas": [
+        "7",
+        "C15",
+        "C17",
+        "C25",
+        "C73",
+        "H15",
+        "H17",
+        "J73",
+        "L25"
+      ]
+    },
+    {
+      "id": "normandia",
+      "nombre": "Normandía",
+      "rutas": [
+        "1",
+        "G43",
+        "K10",
+        "K43",
+        "L10"
+      ]
+    },
+    {
+      "id": "olaya",
+      "nombre": "Olaya",
+      "rutas": [
+        "3",
+        "B72",
+        "H72",
+        "H73"
+      ]
+    },
+    {
+      "id": "paloquemao",
+      "nombre": "Paloquemao",
+      "rutas": [
+        "4",
+        "B11",
+        "B72",
+        "C17",
+        "D22",
+        "E42",
+        "G11",
+        "G22",
+        "G42",
+        "H17",
+        "H72"
+      ]
+    },
+    {
+      "id": "parque",
+      "nombre": "Parque",
+      "rutas": [
+        "3",
+        "C15",
+        "H15"
+      ]
+    },
+    {
+      "id": "parque_la_gran_via_(ak_7___cl_94)",
+      "nombre": "Parque La Gran Vía (Ak 7 - Cl 94)",
+      "rutas": [
+        "K86",
+        "L82"
+      ]
+    },
+    {
+      "id": "parque_leon_de_greiff_(ac_85___kr_13)",
+      "nombre": "Parque León De Greiff (Ac 85 - Kr 13)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "parque_nacional_(ak_7___cl_37)",
+      "nombre": "Parque Nacional (Ak 7 - Cl 37)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "pepe_sierra",
+      "nombre": "Pepe Sierra",
+      "rutas": [
+        "8",
+        "B11",
+        "B16",
+        "B18",
+        "B28",
+        "B55",
+        "B72",
+        "D55",
+        "F28",
+        "G11",
+        "H72",
+        "K16",
+        "K54",
+        "L18"
+      ]
+    },
+    {
+      "id": "perdomo",
+      "nombre": "Perdomo",
+      "rutas": [
+        "4",
+        "A52",
+        "B12",
+        "G12",
+        "G47",
+        "G52",
+        "M47"
+      ]
+    },
+    {
+      "id": "policarpa",
+      "nombre": "Policarpa",
+      "rutas": [
+        "2",
+        "H83",
+        "M83"
+      ]
+    },
+    {
+      "id": "polo___fincomercio",
+      "nombre": "Polo - Fincomercio",
+      "rutas": [
+        "4",
+        "6",
+        "7",
+        "B55",
+        "C84",
+        "D20",
+        "D55",
+        "D81",
+        "F61",
+        "H20",
+        "L81",
+        "M84"
+      ]
+    },
+    {
+      "id": "portal_20_de_julio",
+      "nombre": "Portal 20 De Julio",
+      "rutas": [
+        "2",
+        "B18",
+        "C25",
+        "D81",
+        "K10",
+        "L10",
+        "L18",
+        "L25",
+        "L81",
+        "L82",
+        "M82"
+      ]
+    },
+    {
+      "id": "portal_de_la_80",
+      "nombre": "Portal De La 80",
+      "rutas": [
+        "6",
+        "B10",
+        "B55",
+        "D10",
+        "D20",
+        "D21",
+        "D22",
+        "D24",
+        "D55",
+        "G22",
+        "H20",
+        "H21",
+        "J24"
+      ]
+    },
+    {
+      "id": "portal_de_las_americas",
+      "nombre": "Portal De Las Américas",
+      "rutas": [
+        "5",
+        "A60",
+        "A61",
+        "B26",
+        "B28",
+        "E32",
+        "F23",
+        "F26",
+        "F28",
+        "F32",
+        "F51",
+        "F60",
+        "F61",
+        "J23",
+        "M51"
+      ]
+    },
+    {
+      "id": "portal_de_suba",
+      "nombre": "Portal De Suba",
+      "rutas": [
+        "7",
+        "B50",
+        "C15",
+        "C17",
+        "C19",
+        "C25",
+        "C30",
+        "C50",
+        "C73",
+        "F19",
+        "G30",
+        "H15",
+        "H17",
+        "J73",
+        "L25"
+      ]
+    },
+    {
+      "id": "portal_de_usme",
+      "nombre": "Portal De Usme",
+      "rutas": [
+        "B72",
+        "B75",
+        "C17",
+        "D20",
+        "H17",
+        "H20",
+        "H54",
+        "H72",
+        "H75",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "portal_de_usme_(av._caracas___cl_64_sur)",
+      "nombre": "Portal De Usme (Av. Caracas - Cl 64 Sur)",
+      "rutas": [
+        "H83"
+      ]
+    },
+    {
+      "id": "portal_de_usme_(cl_67d_sur___kr_11)",
+      "nombre": "Portal De Usme (Cl 67d Sur - Kr 11)",
+      "rutas": [
+        "H83",
+        "M83"
+      ]
+    },
+    {
+      "id": "portal_del_norte",
+      "nombre": "Portal Del Norte",
+      "rutas": [
+        "8",
+        "B10",
+        "B12",
+        "B13",
+        "B27",
+        "B28",
+        "B46",
+        "B74",
+        "B75",
+        "D10",
+        "F28",
+        "G12",
+        "G46",
+        "H13",
+        "H27",
+        "H75",
+        "J70",
+        "J74"
+      ]
+    },
+    {
+      "id": "portal_del_sur___jfk_cooperativa_financiera",
+      "nombre": "Portal Del Sur - JFK Cooperativa Financiera",
+      "rutas": [
+        "4",
+        "A52",
+        "B11",
+        "B12",
+        "C30",
+        "D22",
+        "G11",
+        "G12",
+        "G22",
+        "G30",
+        "G45",
+        "G47",
+        "G52",
+        "M47"
+      ]
+    },
+    {
+      "id": "portal_del_tunal",
+      "nombre": "Portal Del Tunal",
+      "rutas": [
+        "3",
+        "B13",
+        "B27",
+        "C15",
+        "D21",
+        "H13",
+        "H15",
+        "H21",
+        "H27",
+        "H73"
+      ]
+    },
+    {
+      "id": "portal_eldorado___centro_comercial_nuestro_bogota",
+      "nombre": "Portal Eldorado - Centro Comercial Nuestro Bogotá",
+      "rutas": [
+        "1",
+        "B16",
+        "B23",
+        "G43",
+        "H54",
+        "K10",
+        "K16",
+        "K23",
+        "K43",
+        "K54",
+        "K86",
+        "L10",
+        "M86"
+      ]
+    },
+    {
+      "id": "pradera___plaza_central",
+      "nombre": "Pradera - Plaza Central",
+      "rutas": [
+        "5",
+        "F23",
+        "F51",
+        "J23",
+        "M51"
+      ]
+    },
+    {
+      "id": "prado",
+      "nombre": "Prado",
+      "rutas": [
+        "8",
+        "B12",
+        "B23",
+        "B28",
+        "B55",
+        "B74",
+        "B75",
+        "D55",
+        "F28",
+        "G12",
+        "H73",
+        "H75",
+        "J70",
+        "J74",
+        "K23"
+      ]
+    },
+    {
+      "id": "puente_aranda",
+      "nombre": "Puente Aranda",
+      "rutas": [
+        "5",
+        "E32",
+        "F23",
+        "F32",
+        "J23"
+      ]
+    },
+    {
+      "id": "puente_aereo___e_(ac_26___kr_106)",
+      "nombre": "Puente Aéreo - E (Ac 26 - Kr 106)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "puente_aereo___o_(ac_26___kr_106)",
+      "nombre": "Puente Aéreo - O (Ac 26 - Kr 106)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "puente_de_guadua_(ac_80___kr_119)_(a)",
+      "nombre": "Puente De Guadua (Ac 80 - Kr 119) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "puentelargo",
+      "nombre": "Puentelargo",
+      "rutas": [
+        "7",
+        "B50",
+        "C17",
+        "C19",
+        "C30",
+        "C50",
+        "C73",
+        "C84",
+        "F19",
+        "G30",
+        "H17",
+        "J73",
+        "M84"
+      ]
+    },
+    {
+      "id": "quinta_paredes",
+      "nombre": "Quinta Paredes",
+      "rutas": [
+        "1",
+        "B16",
+        "G43",
+        "H54",
+        "K16",
+        "K43",
+        "K54",
+        "K86",
+        "M86"
+      ]
+    },
+    {
+      "id": "quirigua",
+      "nombre": "Quirigua",
+      "rutas": [
+        "6",
+        "B55",
+        "D20",
+        "D55",
+        "H20"
+      ]
+    },
+    {
+      "id": "quiroga",
+      "nombre": "Quiroga",
+      "rutas": [
+        "3",
+        "B13",
+        "C17",
+        "D20",
+        "H13",
+        "H17",
+        "H20"
+      ]
+    },
+    {
+      "id": "restrepo",
+      "nombre": "Restrepo",
+      "rutas": [
+        "3",
+        "B13",
+        "C17",
+        "D20",
+        "H13",
+        "H17",
+        "H20",
+        "H54",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "ricaurte",
+      "nombre": "Ricaurte",
+      "rutas": [
+        "4",
+        "5",
+        "A60",
+        "B11",
+        "B12",
+        "C19",
+        "C25",
+        "D21",
+        "F19",
+        "F23",
+        "F51",
+        "F60",
+        "G11",
+        "G12",
+        "G43",
+        "H21",
+        "J23",
+        "K43",
+        "L25",
+        "M51"
+      ]
+    },
+    {
+      "id": "rionegro",
+      "nombre": "Rionegro",
+      "rutas": [
+        "7",
+        "B50",
+        "C15",
+        "C30",
+        "C50",
+        "G30",
+        "H15"
+      ]
+    },
+    {
+      "id": "salitre___el_greco",
+      "nombre": "Salitre - El Greco",
+      "rutas": [
+        "1",
+        "B16",
+        "B23",
+        "G43",
+        "H54",
+        "K10",
+        "K16",
+        "K23",
+        "K43",
+        "K54",
+        "K86",
+        "L10",
+        "M86"
+      ]
+    },
+    {
+      "id": "san_bernardo",
+      "nombre": "San Bernardo",
+      "rutas": [
+        "2",
+        "B18",
+        "C25",
+        "K10",
+        "L10",
+        "L18",
+        "L25"
+      ]
+    },
+    {
+      "id": "san_diego",
+      "nombre": "San Diego",
+      "rutas": [
+        "2",
+        "F51",
+        "G47",
+        "H83",
+        "L82",
+        "M47",
+        "M51",
+        "M82",
+        "M83",
+        "M86"
+      ]
+    },
+    {
+      "id": "san_facon___carrera_22",
+      "nombre": "San Façon - Carrera 22",
+      "rutas": [
+        "5",
+        "F23",
+        "J23"
+      ]
+    },
+    {
+      "id": "san_martin",
+      "nombre": "San Martín",
+      "rutas": [
+        "7",
+        "C17",
+        "C25",
+        "C73",
+        "H17",
+        "J73",
+        "L25"
+      ]
+    },
+    {
+      "id": "san_mateo___c.c._unisur",
+      "nombre": "San Mateo - C.C. Unisur",
+      "rutas": [
+        "B46",
+        "E42",
+        "G41",
+        "G42",
+        "G43",
+        "G45",
+        "G46",
+        "K43",
+        "L41"
+      ]
+    },
+    {
+      "id": "san_victorino",
+      "nombre": "San Victorino",
+      "rutas": [
+        "2",
+        "D81",
+        "G47",
+        "H83",
+        "L81",
+        "M47",
+        "M83"
+      ]
+    },
+    {
+      "id": "santa_isabel",
+      "nombre": "Santa Isabel",
+      "rutas": [
+        "4",
+        "A52",
+        "B11",
+        "C30",
+        "D22",
+        "G11",
+        "G22",
+        "G30",
+        "G52"
+      ]
+    },
+    {
+      "id": "santa_lucia",
+      "nombre": "Santa Lucía",
+      "rutas": [
+        "3",
+        "B75",
+        "C17",
+        "D21",
+        "H17",
+        "H21",
+        "H75",
+        "H76",
+        "J76"
+      ]
+    },
+    {
+      "id": "secretaria_del_habitat_(ak_13___cl_52)",
+      "nombre": "Secretaría Del Hábitat (Ak 13 - Cl 52)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "sena___direccion_general_(ak_7___cl_55)_(a)",
+      "nombre": "Sena - Dirección General (Ak 7 - Cl 55) (A)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "sena___direccion_general_(ak_7___cl_56)_(b)",
+      "nombre": "Sena - Dirección General (Ak 7 - Cl 56) (B)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "sevillana",
+      "nombre": "Sevillana",
+      "rutas": [
+        "4",
+        "D22",
+        "G22",
+        "G47",
+        "M47"
+      ]
+    },
+    {
+      "id": "socorro",
+      "nombre": "Socorro",
+      "rutas": [
+        "B72",
+        "H72"
+      ]
+    },
+    {
+      "id": "suba___avenida_boyaca",
+      "nombre": "Suba - Avenida Boyacá",
+      "rutas": [
+        "7",
+        "C19",
+        "C25",
+        "C30",
+        "F19",
+        "G30",
+        "L25"
+      ]
+    },
+    {
+      "id": "suba___calle_100",
+      "nombre": "Suba - Calle 100",
+      "rutas": [
+        "7",
+        "C17",
+        "C19",
+        "C73",
+        "F19",
+        "H17",
+        "J73"
+      ]
+    },
+    {
+      "id": "suba___calle_95",
+      "nombre": "Suba - Calle 95",
+      "rutas": [
+        "7",
+        "C17",
+        "C19",
+        "C25",
+        "F19",
+        "H17",
+        "L25"
+      ]
+    },
+    {
+      "id": "suba___transversal_91",
+      "nombre": "Suba - Transversal 91",
+      "rutas": [
+        "7",
+        "B50",
+        "C15",
+        "C17",
+        "C19",
+        "C25",
+        "C30",
+        "C50",
+        "C73",
+        "F19",
+        "G30",
+        "H15",
+        "H17",
+        "J73",
+        "L25"
+      ]
+    },
+    {
+      "id": "teatro_patria_(ak_7___cl_106)",
+      "nombre": "Teatro Patria (Ak 7 - Cl 106)",
+      "rutas": [
+        "L82"
+      ]
+    },
+    {
+      "id": "tercer_milenio",
+      "nombre": "Tercer Milenio",
+      "rutas": [
+        "3",
+        "8",
+        "B13",
+        "B18",
+        "C15",
+        "H13",
+        "H15",
+        "H76",
+        "J76",
+        "K10",
+        "L10",
+        "L18"
+      ]
+    },
+    {
+      "id": "terminal",
+      "nombre": "Terminal",
+      "rutas": [
+        "8",
+        "B11",
+        "B16",
+        "B18",
+        "G11",
+        "K16",
+        "K54",
+        "L18"
+      ]
+    },
+    {
+      "id": "terreros___hospital_cardiovascular",
+      "nombre": "Terreros - Hospital Cardiovascular",
+      "rutas": [
+        "B46",
+        "E42",
+        "G41",
+        "G42",
+        "G43",
+        "G45",
+        "G46",
+        "K43",
+        "L41"
+      ]
+    },
+    {
+      "id": "toberin___foundever_(lado_norte)",
+      "nombre": "Toberín - Foundever (Lado Norte)",
+      "rutas": [
+        "8",
+        "B10",
+        "B11",
+        "B12",
+        "B16",
+        "B27",
+        "B46",
+        "B55",
+        "B72",
+        "B74",
+        "B75",
+        "D10",
+        "D55",
+        "G11",
+        "G12",
+        "G46",
+        "H27",
+        "H72",
+        "H73",
+        "H75",
+        "J70",
+        "J74",
+        "K16",
+        "K54"
+      ]
+    },
+    {
+      "id": "transversal_86",
+      "nombre": "Transversal 86",
+      "rutas": [
+        "5",
+        "A60",
+        "B26",
+        "E32",
+        "F26",
+        "F32",
+        "F60"
+      ]
+    },
+    {
+      "id": "tygua___san_jose",
+      "nombre": "Tygua - San José",
+      "rutas": [
+        "8",
+        "B72",
+        "C25",
+        "G41",
+        "G47",
+        "H72",
+        "L25",
+        "L41",
+        "M47"
+      ]
+    },
+    {
+      "id": "universidad_distrital_(ak_7___cl_40)_(a)",
+      "nombre": "Universidad Distrital (Ak 7 - Cl 40) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "universidad_distrital_(ak_7___cl_40)_(b)",
+      "nombre": "Universidad Distrital (Ak 7 - Cl 40) (B)",
+      "rutas": [
+        "K86"
+      ]
+    },
+    {
+      "id": "universidad_javeriana_(ak_7___cl_40)_(a)",
+      "nombre": "Universidad Javeriana (Ak 7 - Cl 40) (A)",
+      "rutas": [
+        "D81"
+      ]
+    },
+    {
+      "id": "universidad_javeriana_(ak_7___cl_40)_(b)",
+      "nombre": "Universidad Javeriana (Ak 7 - Cl 40) (B)",
+      "rutas": [
+        "M86"
+      ]
+    },
+    {
+      "id": "universidad_la_gran_colombia_(ak_13___cl_42a)_(a)",
+      "nombre": "Universidad La Gran Colombia (Ak 13 - Cl 42a) (A)",
+      "rutas": [
+        "L81"
+      ]
+    },
+    {
+      "id": "universidad_la_salle_(ak_7___cl_61)",
+      "nombre": "Universidad La Salle (Ak 7 - Cl 61)",
+      "rutas": [
+        "D81",
+        "M86"
+      ]
+    },
+    {
+      "id": "universidad_nacional",
+      "nombre": "Universidad Nacional",
+      "rutas": [
+        "4",
+        "B12",
+        "C17",
+        "C30",
+        "D22",
+        "E32",
+        "E42",
+        "F32",
+        "G12",
+        "G22",
+        "G30",
+        "G42",
+        "H17"
+      ]
+    },
+    {
+      "id": "universidad_pedagogica_(ac_72___kr_10)",
+      "nombre": "Universidad Pedagógica (Ac 72 - Kr 10)",
+      "rutas": [
+        "L81",
+        "M84"
+      ]
+    },
+    {
+      "id": "universidad_santo_tomas_(ak_7___cl_51)",
+      "nombre": "Universidad Santo Tomás (Ak 7 - Cl 51)",
+      "rutas": [
+        "K86",
+        "L81"
+      ]
+    },
+    {
+      "id": "universidades___city_u",
+      "nombre": "Universidades - City U",
+      "rutas": [
+        "1",
+        "6",
+        "C73",
+        "D24",
+        "H76",
+        "J24",
+        "J73",
+        "J76"
+      ]
+    },
+    {
+      "id": "venecia",
+      "nombre": "Venecia",
+      "rutas": [
+        "4",
+        "A52",
+        "C30",
+        "G30",
+        "G43",
+        "G52",
+        "K43"
+      ]
+    },
+    {
+      "id": "virrey",
+      "nombre": "Virrey",
+      "rutas": [
+        "8",
+        "B11",
+        "B18",
+        "B26",
+        "B27",
+        "B50",
+        "B55",
+        "B74",
+        "C50",
+        "D55",
+        "F26",
+        "G11",
+        "H27",
+        "J74",
+        "L18"
+      ]
+    },
+    {
+      "id": "zona_industrial",
+      "nombre": "Zona Industrial",
+      "rutas": [
+        "5",
+        "B28",
+        "C19",
+        "E32",
+        "F19",
+        "F28",
+        "F32"
+      ]
+    }
+  ]
+}
