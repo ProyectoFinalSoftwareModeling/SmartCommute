@@ -19,19 +19,24 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
-import os
-from dotenv import load_dotenv
+from typing import List
+from fastapi import APIRouter, HTTPException
+from services.route import RouteServices # pylint: disable=import-error
+from repositories.route import RouteDAO # pylint: disable=import-error
 
-DOTENV_PATH = "/app/.env"
-load_dotenv(DOTENV_PATH)
+router = APIRouter()
 
-#pylint: disable=too-few-public-methods
-class EnvironmentVariables:
-    """
-    This class is used to define environment variables.
-    """
+services = RouteServices()
 
-    def __init__(self):
-        """This method is used to initialize the class."""
-        self.path_routes_data = os.getenv("PATH_ROUTES_DATA")
-        self.path_stations_data = os.getenv("PATH_STATIONS_DATA")
+@router.get("/route/all")
+def get_all() -> List[RouteDAO]:
+    """This method is used to get all routes."""
+    return services.get_all()
+
+
+@router.get("/route/by_name/{name}")
+def get_by_name(name: str) -> List[RouteDAO]:
+    """This method is used to get routes by name."""
+    if name == "":
+        raise HTTPException(status_code=400, detail="The name cannot be empty.")
+    return services.get_by_name(name)

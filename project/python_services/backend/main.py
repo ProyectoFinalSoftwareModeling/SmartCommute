@@ -19,19 +19,14 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
-import os
-from dotenv import load_dotenv
+from fastapi import FastAPI
+from controllers import route_router # pylint: disable=import-error
 
-DOTENV_PATH = "/app/.env"
-load_dotenv(DOTENV_PATH)
+app = FastAPI(
+    title="SmartCommute",
+    description="This project is used to manage stations, routes and \
+    plan trips on Transmilenio.",
+    version="0.0.1",
+)
 
-#pylint: disable=too-few-public-methods
-class EnvironmentVariables:
-    """
-    This class is used to define environment variables.
-    """
-
-    def __init__(self):
-        """This method is used to initialize the class."""
-        self.path_routes_data = os.getenv("PATH_ROUTES_DATA")
-        self.path_stations_data = os.getenv("PATH_STATIONS_DATA")
+app.include_router(route_router)

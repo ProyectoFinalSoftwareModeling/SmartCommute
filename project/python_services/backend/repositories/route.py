@@ -50,11 +50,12 @@ class RouteRepository:
         """This method is used to load routes data from a file."""
         try:
             with open(path_file, "r", encoding="utf-8") as f:
-                self.data = json.load(f)
-        except FileNotFoundError as e:
+                data = json.load(f)
+                self.data = data["routes"] 
+        except (FileNotFoundError, KeyError) as e:
             print(f"Error loading routes data: {e}")
             self.data = []
-    
+
     def get_routes(self) -> list[RouteDAO]:
         """This method is used to get all routes."""
         routes = []
