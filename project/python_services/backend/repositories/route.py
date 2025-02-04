@@ -65,3 +65,5 @@ class RouteRepository:
                 schedule=route["schedule"],
                 stations=route["stations"]
             )
+            routes.append(route_temp)
+        return routes
