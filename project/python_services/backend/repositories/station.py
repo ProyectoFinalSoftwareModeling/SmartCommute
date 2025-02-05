@@ -1,5 +1,5 @@
 """This module is used to handle data related to Transmilenio
-routes.
+stations.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -23,48 +23,46 @@ import json
 from pydantic import BaseModel
 from environment_variables import EnvironmentVariables # pylint: disable=import-error
 
-class RouteDAO(BaseModel):
+class StationDAO(BaseModel):
     """
     This class is used to define data structure related to
-    Transmilenio routes.
+    Transmilenio stations.
     """
     id: str
     name: str
-    schedule: list[dict[str, str]]
-    stations: list[str]
+    routes: list[str]
 
 
-class RouteRepository:
+class StationRepository:
     """
     This class represents the behavior of a repository to handle 
-    Transmilenio routes data.
+    Transmilenio stations data.
     """
 
     def __init__(self):
         """This method is used to initialize the class."""
         env = EnvironmentVariables()
-        path_file = env.path_routes_data
+        path_file = env.path_stations_data
         self._load_data(path_file)
 
     def _load_data(self, path_file: str):
-        """This method is used to load routes data from a file."""
+        """This method is used to load stations data from a file."""
         try:
             with open(path_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                self.data = data["routes"]
+                self.data = data["stations"]
         except (FileNotFoundError, KeyError) as e:
-            print(f"Error loading routes data: {e}")
+            print(f"Error loading stations data: {e}")
             self.data = []
 
-    def get_routes(self) -> list[RouteDAO]:
-        """This method is used to get all Transmilenio routes."""
-        routes = []
-        for route in self.data:
-            route_temp = RouteDAO(
-                id = route["id"],
-                name = route["name"],
-                schedule = route["schedule"],
-                stations = route["stations"]
+    def get_stations(self) -> list[StationDAO]:
+        """This method is used to get all Transmilenio stations."""
+        stations = []
+        for station in self.data:
+            route_temp = StationDAO(
+                id = station["id"],
+                name = station["name"],
+                routes = station["routes"]
             )
-            routes.append(route_temp)
-        return routes
+            stations.append(route_temp)
+        return stations

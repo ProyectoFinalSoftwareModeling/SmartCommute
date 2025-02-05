@@ -1,5 +1,5 @@
 """This module defines services and data transfer objects (DTOs) 
-for handling Transmilenio routes.
+for handling Transmilenio stations.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -21,42 +21,42 @@ along with SmartCommute. If not, see <https://www.gnu.org/licenses/>.
 
 from typing import List
 from pydantic import BaseModel
-from repositories.route import RouteRepository, RouteDAO # pylint: disable=import-error
+from repositories.station import StationRepository, StationDAO # pylint: disable=import-error
 
-class RouteNameDTO(BaseModel):
+class StationNameDTO(BaseModel):
     """
     This is a data class to move data into the devices.
     """
 
     name: str
 
-class RouteServices:
+class StationServices:
     """
-    This class has the services for Transmilenio route searches.
+    This class has the services for Transmilenio stations searches.
     """
 
     def __init__(self):
-        self.repository = RouteRepository()
+        self.repository = StationRepository()
 
-    def get_all(self) -> List[RouteDAO]:
-        """This method returns all Transmilenio routes.
+    def get_all(self) -> List[StationDAO]:
+        """This method returns all Transmilenio stations.
 
         Returns:
-            A list of routes.
+            A list of stations.
         """
-        return self.repository.get_routes()
+        return self.repository.get_stations()
 
-    def get_by_name(self, name: str) -> RouteDAO:
-        """This method returns a route by its name.
+    def get_by_name(self, name: str) -> StationDAO:
+        """This method returns a Transmilenio station by its name.
 
         Args:
-            name (str): The name of the route.
+            name (str): The name of the station.
 
         Returns:
-            A list of routes with that name.
+            A list of stations with that name.
         """
         response = []
-        for route in self.repository.get_routes():
-            if name.lower() in route.name.lower():
-                response.append(route)
+        for station in self.repository.get_stations():
+            if name.lower() in station.name.lower():
+                response.append(station)
         return response

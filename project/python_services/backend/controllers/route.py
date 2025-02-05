@@ -1,5 +1,5 @@
-"""This module is used to handle data related to Transmilenio
-routes.
+"""This module is used to handle API endpoints related to 
+Transmilenio routes.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -30,13 +30,14 @@ services = RouteServices()
 
 @router.get("/route/all")
 def get_all() -> List[RouteDAO]:
-    """This method is used to get all routes."""
+    """This method is used to get all Transmilenio routes."""
     return services.get_all()
 
 
 @router.get("/route/by_name/{name}")
 def get_by_name(name: str) -> List[RouteDAO]:
-    """This method is used to get routes by name."""
+    """This method is used to get Transmilenio routes by name."""
     if name == "":
-        raise HTTPException(status_code=400, detail="The name cannot be empty.")
+        raise HTTPException(status_code=400,
+                            detail="The name cannot be empty.")
     return services.get_by_name(name)

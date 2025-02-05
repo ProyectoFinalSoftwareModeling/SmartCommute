@@ -1,5 +1,5 @@
 """This module is used to handle API endpoints related to 
-Transmilenio.
+Transmilenio stations.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -19,5 +19,25 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
-from controllers.route import router as route_router # pylint: disable=import-error
-from controllers.station import router as station_router # pylint: disable=import-error
+from typing import List
+from fastapi import APIRouter, HTTPException
+from services.station import StationServices # pylint: disable=import-error
+from repositories.station import StationDAO # pylint: disable=import-error
+
+router = APIRouter()
+
+services = StationServices()
+
+@router.get("/station/all")
+def get_all() -> List[StationDAO]:
+    """This method is used to get all Transmilenio stations."""
+    return services.get_all()
+
+
+@router.get("/station/by_name/{name}")
+def get_by_name(name: str) -> List[StationDAO]:
+    """This method is used to get Transmilenio stations by name."""
+    if name == "":
+        raise HTTPException(status_code=400,
+                            detail="The name cannot be empty.")
+    return services.get_by_name(name)

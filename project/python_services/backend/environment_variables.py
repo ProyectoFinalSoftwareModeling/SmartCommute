@@ -1,5 +1,5 @@
-"""This module is used to handle data related to Transmilenio
-routes.
+"""This module is responsible for loading environment variables 
+for the SmartCommute project.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 

@@ -20,7 +20,7 @@ along with SmartCommute. If not, see <https://www.gnu.org/licenses/>.
 """
 
 from fastapi import FastAPI
-from controllers import route_router # pylint: disable=import-error
+from controllers import route_router, station_router # pylint: disable=import-error
 
 app = FastAPI(
     title="SmartCommute",
@@ -30,3 +30,4 @@ app = FastAPI(
 )
 
 app.include_router(route_router)
+app.include_router(station_router)
