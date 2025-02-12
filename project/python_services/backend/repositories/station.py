@@ -1,5 +1,5 @@
 """This module is used to handle data related to Transmilenio
-routes.
+stations.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -23,47 +23,44 @@ from pydantic import BaseModel
 from environment_variables import EnvironmentVariables # pylint: disable=import-error
 from repositories.data.base_repository import BaseRepository # pylint: disable=import-error
 
-class RouteDAO(BaseModel):
-    """Represents the data structure for Transmilenio routes."""
+class StationDAO(BaseModel):
+    """Data structure representing a Transmilenio station."""
     id: str
     name: str
-    schedule: list[dict[str, str]]
-    stations: list[str]
+    routes: list[str]
 
 
-class RouteRepository(BaseRepository):
-    """Repository for managing Transmilenio route data."""
-
+class StationRepository(BaseRepository):
+    """Repository for managing Transmilenio station data."""
 
     def __init__(self):
-        """Initializes the repository and loads route data."""
+        """Initializes the repository and loads station data."""
         env = EnvironmentVariables()
-        super().__init__(env.path_routes_data)
+        super().__init__(env.path_stations_data)
 
     def _extract_data(self, data: dict) -> list[dict]:
-        """Extracts route data from the provided dictionary.
+        """Extracts station data from the provided dictionary.
 
         Args:
-            data (dict): The raw data containing route information.
+            data (dict): The raw data containing station information.
 
         Returns:
-            list[dict]: A list of dictionaries representing routes.
+            list[dict]: A list of dictionaries representing stations.
         """
-        return data.get("routes", [])
+        return data.get("stations", [])
 
-    def get_routes(self) -> list[RouteDAO]:
-        """Retrieves all Transmilenio routes.
+    def get_stations(self) -> list[StationDAO]:
+        """Retrieves all Transmilenio stations.
 
         Returns:
-            list[RouteDAO]: A list of route objects.
+            list[StationDAO]: A list of station objects.
         """
-        routes = []
-        for route in self.data:
-            route_temp = RouteDAO(
-                id = route["id"],
-                name = route["name"],
-                schedule = route["schedule"],
-                stations = route["stations"]
+        stations = []
+        for station in self.data:
+            route_temp = StationDAO(
+                id = station["id"],
+                name = station["name"],
+                routes = station["routes"]
             )
-            routes.append(route_temp)
-        return routes
+            stations.append(route_temp)
+        return stations

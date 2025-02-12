@@ -1,5 +1,5 @@
-"""This module is used to handle data related to Transmilenio
-routes.
+"""This module defines services and data transfer objects (DTOs) 
+for handling Transmilenio routes.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -23,37 +23,38 @@ from typing import List
 from pydantic import BaseModel
 from repositories.route import RouteRepository, RouteDAO # pylint: disable=import-error
 
-class NameDTO(BaseModel):
+class RouteNameDTO(BaseModel):
     """
-    This is a data class to move data into the devices.
+    Represents a Data Transfer Object (DTO) for Transmilenio route names.
     """
-    
+
     name: str
 
 class RouteServices:
     """
-    This class has the services for route searches.
+    Provides services for searching Transmilenio routes.
     """
 
     def __init__(self):
+        """Initializes the service with a route repository."""
         self.repository = RouteRepository()
 
     def get_all(self) -> List[RouteDAO]:
-        """This method returns all routes.
+        """Retrieves all Transmilenio routes.
 
         Returns:
-            A list of routes.
+            List[RouteDAO]: A list of all available Transmilenio routes.
         """
         return self.repository.get_routes()
-    
+
     def get_by_name(self, name: str) -> RouteDAO:
-        """This method returns a route by its name.
+        """Retrieves Transmilenio routes that match a given name.
 
         Args:
-            name (str): The name of the route.
+            name (str): The name or partial name of the route.
 
         Returns:
-            A list of routes with that name.
+            List[RouteDAO]: A list of routes containing the given name.
         """
         response = []
         for route in self.repository.get_routes():

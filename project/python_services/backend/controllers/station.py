@@ -1,5 +1,5 @@
 """This module is used to handle API endpoints related to 
-Transmilenio routes.
+Transmilenio stations.
 
 Author: Juan Esteban Bedoya <jebedoyal@udistrital.edu.co>
 
@@ -21,32 +21,31 @@ along with SmartCommute. If not, see <https://www.gnu.org/licenses/>.
 
 from typing import List
 from fastapi import APIRouter, HTTPException
-from services.route import RouteServices # pylint: disable=import-error
-from repositories.route import RouteDAO # pylint: disable=import-error
+from services.station import StationServices # pylint: disable=import-error
+from repositories.station import StationDAO # pylint: disable=import-error
 
 router = APIRouter()
 
-services = RouteServices()
+services = StationServices()
 
-@router.get("/route/all")
-def get_all() -> List[RouteDAO]:
-    """Retrieves all Transmilenio routes.
+@router.get("/station/all")
+def get_all() -> List[StationDAO]:
+    """Retrieves all Transmilenio stations.
 
     Returns:
-        List[RouteDAO]: A list of all available Transmilenio routes.
+        List[StationDAO]: A list of all available Transmilenio stations.
     """
     return services.get_all()
 
-
-@router.get("/route/by_name/{name}")
-def get_by_name(name: str) -> List[RouteDAO]:
-    """Retrieves Transmilenio routes that match the given name.
+@router.get("/station/by_name/{name}")
+def get_by_name(name: str) -> List[StationDAO]:
+    """Retrieves Transmilenio stations that match the given name.
 
     Args:
-        name (str): The name of the route to search for.
+        name (str): The name of the station to search for.
 
     Returns:
-        List[RouteDAO]: A list of routes matching the given name.
+        List[StationDAO]: A list of stations matching the given name.
 
     Raises:
         HTTPException: If the name is empty.
