@@ -28,10 +28,15 @@ load_dotenv(DOTENV_PATH)
 #pylint: disable=too-few-public-methods
 class EnvironmentVariables:
     """
-    This class is used to define environment variables.
+    Manages environment variables for data file paths.
     """
 
     def __init__(self):
-        """This method is used to initialize the class."""
+        """Initializes environment variables for data storage paths.
+
+        Attributes:
+            path_routes_data (str | None): Path to the routes data file.
+            path_stations_data (str | None): Path to the stations data file.
+        """
         self.path_routes_data = os.getenv("PATH_ROUTES_DATA")
         self.path_stations_data = os.getenv("PATH_STATIONS_DATA")

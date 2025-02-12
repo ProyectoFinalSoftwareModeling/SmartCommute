@@ -30,14 +30,28 @@ services = RouteServices()
 
 @router.get("/route/all")
 def get_all() -> List[RouteDAO]:
-    """This method is used to get all Transmilenio routes."""
+    """Retrieves all Transmilenio routes.
+
+    Returns:
+        List[RouteDAO]: A list of all available Transmilenio routes.
+    """
     return services.get_all()
 
 
 @router.get("/route/by_name/{name}")
 def get_by_name(name: str) -> List[RouteDAO]:
-    """This method is used to get Transmilenio routes by name."""
-    if name == "":
+    """Retrieves Transmilenio routes that match the given name.
+
+    Args:
+        name (str): The name of the route to search for.
+
+    Returns:
+        List[RouteDAO]: A list of routes matching the given name.
+
+    Raises:
+        HTTPException: If the name is empty.
+    """
+    if not name:
         raise HTTPException(status_code=400,
                             detail="The name cannot be empty.")
     return services.get_by_name(name)

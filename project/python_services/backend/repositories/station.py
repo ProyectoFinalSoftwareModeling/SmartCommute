@@ -19,44 +19,42 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
-import json
 from pydantic import BaseModel
 from environment_variables import EnvironmentVariables # pylint: disable=import-error
+from repositories.data.base_repository import BaseRepository # pylint: disable=import-error
 
 class StationDAO(BaseModel):
-    """
-    This class is used to define data structure related to
-    Transmilenio stations.
-    """
+    """Data structure representing a Transmilenio station."""
     id: str
     name: str
     routes: list[str]
 
 
-class StationRepository:
-    """
-    This class represents the behavior of a repository to handle 
-    Transmilenio stations data.
-    """
+class StationRepository(BaseRepository):
+    """Repository for managing Transmilenio station data."""
 
     def __init__(self):
-        """This method is used to initialize the class."""
+        """Initializes the repository and loads station data."""
         env = EnvironmentVariables()
-        path_file = env.path_stations_data
-        self._load_data(path_file)
+        super().__init__(env.path_stations_data)
 
-    def _load_data(self, path_file: str):
-        """This method is used to load stations data from a file."""
-        try:
-            with open(path_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                self.data = data["stations"]
-        except (FileNotFoundError, KeyError) as e:
-            print(f"Error loading stations data: {e}")
-            self.data = []
+    def _extract_data(self, data: dict) -> list[dict]:
+        """Extracts station data from the provided dictionary.
+
+        Args:
+            data (dict): The raw data containing station information.
+
+        Returns:
+            list[dict]: A list of dictionaries representing stations.
+        """
+        return data.get("stations", [])
 
     def get_stations(self) -> list[StationDAO]:
-        """This method is used to get all Transmilenio stations."""
+        """Retrieves all Transmilenio stations.
+
+        Returns:
+            list[StationDAO]: A list of station objects.
+        """
         stations = []
         for station in self.data:
             route_temp = StationDAO(

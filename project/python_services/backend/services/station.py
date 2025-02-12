@@ -25,35 +25,36 @@ from repositories.station import StationRepository, StationDAO # pylint: disable
 
 class StationNameDTO(BaseModel):
     """
-    This is a data class to move data into the devices.
+    Represents a Data Transfer Object (DTO) for Transmilenio station names.
     """
 
     name: str
 
 class StationServices:
     """
-    This class has the services for Transmilenio stations searches.
+    Provides services for searching Transmilenio stations.
     """
 
     def __init__(self):
+        """Initializes the service with a station repository."""
         self.repository = StationRepository()
 
     def get_all(self) -> List[StationDAO]:
-        """This method returns all Transmilenio stations.
+        """Retrieves all Transmilenio stations.
 
         Returns:
-            A list of stations.
+            List[StationDAO]: A list of all available Transmilenio stations.
         """
         return self.repository.get_stations()
 
     def get_by_name(self, name: str) -> StationDAO:
-        """This method returns a Transmilenio station by its name.
+        """Retrieves Transmilenio stations that match a given name.
 
         Args:
-            name (str): The name of the station.
+            name (str): The name or partial name of the station.
 
         Returns:
-            A list of stations with that name.
+            List[StationDAO]: A list of stations containing the given name.
         """
         response = []
         for station in self.repository.get_stations():
