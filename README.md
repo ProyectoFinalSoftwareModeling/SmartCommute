@@ -19,19 +19,16 @@ SmartCommute is a Command Line Interface (CLI) application designed to enhance t
 3. **💳 Card Recharge**  
    The application allows users to recharge their transportation card. If it's the first time, the user will be prompted to input their card details; otherwise, the app will proceed directly to the recharge menu.
 
-4. **⚠️ System Issue Inquiry**  
-   Users can check for updates on the system, such as detours, closed stations, or operational issues.
-
-5. **🗺️ Plan Your Trip**  
+4. **🗺️ Plan Your Trip**  
    Users can input their starting point and destination to see available routes. Custom locations can be saved to simplify future trip planning.
 
-6. **🕓 History**  
+5. **🕓 History**  
    Users can review their history of route, station, and planned trip inquiries, making it easy to access recent travel information.
 
-7. **📍 Add Custom Location**  
+6. **📍 Add Custom Location**  
    Users can save frequently visited locations, such as "Home" or "Work," to facilitate future trip planning.
 
-8. **🚪 Exit**  
+7. **🚪 Exit**  
    Safely exit the application.
 
 
