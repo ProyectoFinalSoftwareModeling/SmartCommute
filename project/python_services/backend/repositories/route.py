@@ -19,45 +19,44 @@ You should have received a copy of the GNU General Public License
 along with SmartCommute. If not, see <https://www.gnu.org/licenses/>. 
 """
 
-import json
 from pydantic import BaseModel
 from environment_variables import EnvironmentVariables # pylint: disable=import-error
+from repositories.data.base_repository import BaseRepository # pylint: disable=import-error
 
 class RouteDAO(BaseModel):
-    """
-    This class is used to define data structure related to
-    Transmilenio routes.
-    """
+    """Represents the data structure for Transmilenio routes."""
     id: str
     name: str
     schedule: list[dict[str, str]]
     stations: list[str]
 
 
-class RouteRepository:
-    """
-    This class represents the behavior of a repository to handle 
-    Transmilenio routes data.
-    """
+class RouteRepository(BaseRepository):
+    """Repository for managing Transmilenio route data."""
+
 
     def __init__(self):
-        """This method is used to initialize the class."""
+        """Initializes the repository and loads route data."""
         env = EnvironmentVariables()
-        path_file = env.path_routes_data
-        self._load_data(path_file)
+        super().__init__(env.path_routes_data)
 
-    def _load_data(self, path_file: str):
-        """This method is used to load routes data from a file."""
-        try:
-            with open(path_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                self.data = data["routes"]
-        except (FileNotFoundError, KeyError) as e:
-            print(f"Error loading routes data: {e}")
-            self.data = []
+    def _extract_data(self, data: dict) -> list[dict]:
+        """Extracts route data from the provided dictionary.
+
+        Args:
+            data (dict): The raw data containing route information.
+
+        Returns:
+            list[dict]: A list of dictionaries representing routes.
+        """
+        return data.get("routes", [])
 
     def get_routes(self) -> list[RouteDAO]:
-        """This method is used to get all Transmilenio routes."""
+        """Retrieves all Transmilenio routes.
+
+        Returns:
+            list[RouteDAO]: A list of route objects.
+        """
         routes = []
         for route in self.data:
             route_temp = RouteDAO(

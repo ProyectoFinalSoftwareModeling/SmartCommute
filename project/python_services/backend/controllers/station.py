@@ -30,14 +30,27 @@ services = StationServices()
 
 @router.get("/station/all")
 def get_all() -> List[StationDAO]:
-    """This method is used to get all Transmilenio stations."""
-    return services.get_all()
+    """Retrieves all Transmilenio stations.
 
+    Returns:
+        List[StationDAO]: A list of all available Transmilenio stations.
+    """
+    return services.get_all()
 
 @router.get("/station/by_name/{name}")
 def get_by_name(name: str) -> List[StationDAO]:
-    """This method is used to get Transmilenio stations by name."""
-    if name == "":
+    """Retrieves Transmilenio stations that match the given name.
+
+    Args:
+        name (str): The name of the station to search for.
+
+    Returns:
+        List[StationDAO]: A list of stations matching the given name.
+
+    Raises:
+        HTTPException: If the name is empty.
+    """
+    if not name:
         raise HTTPException(status_code=400,
                             detail="The name cannot be empty.")
     return services.get_by_name(name)
