@@ -32,14 +32,19 @@ SmartCommute is an application designed to enhance the experience of users of Bo
 
 ## 🛠️ Technologies Used
 
-- **BPMN** for business process modeling
-- **CRC Cards** and **Class Diagrams** for object-oriented design
+- **Java & Python** for backend development  
+- **Spring Boot & FastAPI** for service implementation  
+- **PostgreSQL** for database management  
+- **BPMN** for business process modeling  
+- **UML Diagrams** including sequence diagrams, activity diagrams, and class diagrams for system design  
+- **Design Patterns** such as Template Method, Strategy, and Chain of Responsibility for modular architecture  
+- **Git & GitHub** for version control and collaborative development  
 
 ## 📂 Resource Repository
 
 - **Paper** 📄: [paper.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/(Paper)IEEE_TransmiApp_CLI.pdf)
 - **Poster** 🖼️: [poster.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/POSTER.pdf)
-- **Diagrams** 📊: Includes BPMN, CRC Cards, and Class Diagrams in [TechnicalReport.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/Technical%20Report%20on%20TransmiApp%20CLI.pdf).
+- **Technical Report** 📊: Includes Analysis, CRC Cards, and Diagrams in [TechnicalReport.pdf](https://github.com/ProyectoFinalSoftwareModeling/SmartCommute/blob/main/Technical%20Report.pdf).
 
 ## 📬 Contact
 
