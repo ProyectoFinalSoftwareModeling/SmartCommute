@@ -42,7 +42,7 @@ SmartCommute is an application designed to enhance the experience of users of Bo
 
 ## 📂 Resource Repository
 
-- **Paper** 📄: [paper.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/(Paper)IEEE_TransmiApp_CLI.pdf)
+- **Paper** 📄: [paper.pdf](https://github.com/ProyectoFinalSoftwareModeling/SmartCommute/blob/main/paper_transmilenio.pdf)
 - **Poster** 🖼️: [poster.pdf](https://github.com/ProyectoFinalSoftwareModeling/TransmiApp/blob/main/POSTER.pdf)
 - **Technical Report** 📊: Includes Analysis, CRC Cards, and Diagrams in [TechnicalReport.pdf](https://github.com/ProyectoFinalSoftwareModeling/SmartCommute/blob/main/Technical%20Report.pdf).
 
