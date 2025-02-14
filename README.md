@@ -1,4 +1,4 @@
-# 🚍 SmartCommute CLI - TransMilenio Management and Simulation Platform
+# 🚍 SmartCommute - TransMilenio Management and Simulation Platform
 
 ## 📄 Description
 
@@ -27,9 +27,6 @@ SmartCommute is a Command Line Interface (CLI) application designed to enhance t
 
 6. **📍 Add Custom Location**  
    Users can save frequently visited locations, such as "Home" or "Work," to facilitate future trip planning.
-
-7. **🚪 Exit**  
-   Safely exit the application.
 
 
 
