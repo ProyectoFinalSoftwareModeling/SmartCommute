@@ -7,18 +7,24 @@
 package java_services.controllers;
 
 import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java_services.data_objects.AuthDTO;
 import java_services.data_objects.UserDAO;
 import java_services.services.UserServices;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.PostMapping;
 
-
+/**
+ * This class has the definition of the user endpoints in the application.
+ * 
+ * author: David Felipe Garcia Leon <dfgarcial@udistrital.edu.co>
+ */
 
 @RestController
 @RequestMapping("v1/user")
@@ -35,7 +41,7 @@ public class UserController {
 
     @GetMapping("/get_by_id/{idUser}")   
     public Optional<UserDAO> getById (@PathVariable ("idUser") Integer id){
-        return UserServices.getById(id);
+        return userServices.getById(id);
     }
 
     /**
@@ -45,7 +51,7 @@ public class UserController {
      */
     @PostMapping("/login")
     public Optional<UserDAO> login(@RequestBody AuthDTO authData){
-        return UserServices.login(authData);
+        return userServices.login(authData);
     } 
 
     
@@ -57,7 +63,7 @@ public class UserController {
 
      @PostMapping("/create")
         public UserDAO create(@RequestBody UserDAO user){
-            return UserServices.create(user);
+            return userServices.create(user);
         }
          
 }

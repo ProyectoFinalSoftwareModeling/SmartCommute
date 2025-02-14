@@ -21,3 +21,4 @@ along with SmartCommute. If not, see <https://www.gnu.org/licenses/>.
 
 from controllers.route import router as route_router # pylint: disable=import-error
 from controllers.station import router as station_router # pylint: disable=import-error
+from controllers.travel import router as travel_router # pylint: disable=import-error
