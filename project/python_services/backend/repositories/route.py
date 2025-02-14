@@ -21,7 +21,7 @@ along with SmartCommute. If not, see <https://www.gnu.org/licenses/>.
 
 from pydantic import BaseModel
 from environment_variables import EnvironmentVariables # pylint: disable=import-error
-from repositories.data.base_repository import BaseRepository # pylint: disable=import-error
+from repositories.base_repository import BaseRepository # pylint: disable=import-error
 
 class RouteDAO(BaseModel):
     """Represents the data structure for Transmilenio routes."""
