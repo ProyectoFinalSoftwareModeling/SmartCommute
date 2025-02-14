@@ -13,6 +13,12 @@ import org.springframework.stereotype.Service;
 import java_services.data_objects.*;
 import java_services.repositories.UserRepositories;
 
+/**
+ * This class has the definition of the user services in the application.
+ * 
+ * author: David Felipe Garcia Leon <dfgarcial@udistrital.edu.co>
+ */
+
 @Service
 public class UserServices {
 
@@ -44,7 +50,7 @@ public class UserServices {
     public UserDAO create(UserDAO user) {
         if (user.username == null || user.password == null || user.card_number == null)
                 return null;
-        return userRepositories.create(user);
+        return userRepositories.addUser(user);
     }
 
 }

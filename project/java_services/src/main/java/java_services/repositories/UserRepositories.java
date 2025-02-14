@@ -26,6 +26,7 @@ import java_services.data_objects.*;
 public class UserRepositories {
 
     private List<UserDAO> users = new ArrayList<UserDAO>();
+    private final String filePath = "data/users.json";
 
     @PostConstruct
     public void init(){
@@ -79,27 +80,24 @@ public class UserRepositories {
         return Optional.empty();
     }
 
-    /**
-     * This method creates a new user.
-     * @param user
-     * @return The user created.
+     /**
+     * This method is used to add a new user in the application.
+     *
+     * @param userData
+     * @return An object with user data.
      */
-    public Optional<UserDAO> create(UserDAO user) {
-        int lastId = -1;
-        for (UserDAO u : users) {
-            if (u.id > lastId) {
-                lastId = u.id;
+    public UserDAO addUser(UserDAO userDAO) {
+        int last_id = -1;
+        for (UserDAO user : this.users) {
+            if (user.id > last_id) {
+                last_id = user.id;
             }
         }
-        UserDAO newUser = new UserDAO(
-            lastId,
-            user.Username(),
-            user.Password(),
-            user.CardNumber()
-        );
-        this.users.add(newUser);
 
-        //TODO: Save the new user in the JSON file.
-        return Optional.of(newUser);
+        userDAO.id = last_id + 1;
+        this.users.add(userDAO);
+        JSONOperations.saveData(this.filePath, this.users);
+
+        return userDAO;
     }
 }
